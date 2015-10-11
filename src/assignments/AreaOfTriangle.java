@@ -1,3 +1,5 @@
+package assignments;
+
 /**
  * Created by Armand on 9/30/2015.
  */
