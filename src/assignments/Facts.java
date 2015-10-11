@@ -1,7 +1,7 @@
 package assignments;
 
 /**
- * Created by Armdev on 10/11/2015.
+ * Created by Armdev on 9/3/2015.
  */
 public class Facts {
     public static void main(String[] args) {
