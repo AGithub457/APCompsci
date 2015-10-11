@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 /**
- * Created by Armand on 9/29/2015.
+ * Created by Armdev on 9/29/2015.
  */
 public class Distance {
     public static void main(String[] args) {
