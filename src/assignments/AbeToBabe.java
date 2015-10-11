@@ -3,7 +3,7 @@ package assignments;
 import java.util.Scanner;
 
 /**
- * Created by Armand on 10/10/2015.
+ * Created by Armdev on 10/10/2015.
  */
 public class AbeToBabe {
     public static void main(String[] args) {

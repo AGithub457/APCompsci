@@ -3,7 +3,7 @@ package assignments;
 import java.util.Scanner;
 
 /**
- * Created by Armand on 10/11/2015.
+ * Created by Armdev on 10/11/2015.
  */
 public class CircleArea {
 

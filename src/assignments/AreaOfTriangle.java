@@ -1,7 +1,7 @@
 package assignments;
 
 /**
- * Created by Armand on 9/30/2015.
+ * Created by Armdev on 9/30/2015.
  */
 public class AreaOfTriangle {
     public static void main(String[] args) {
