@@ -12,7 +12,7 @@ public class AbeToBabe {
 
         System.out.println("Enter your first word: ");
         word1 = scan.nextLine();
-        System.out.println("Enter your first word: ");
+        System.out.println("Enter your second word: ");
         word2 = scan.nextLine();
 
         val = word1.compareTo(word2);
