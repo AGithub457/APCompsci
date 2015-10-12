@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 import java.util.Random;
 
 /**
- * Created by Armand on 9/29/2015.
+ * Created by Armdev on 9/29/2015.
  */
 public class RandomPhoneNumber {
     public static void main(String[] args) {

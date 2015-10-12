@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * Created by Armand on 9/29/2015.
+ * Created by Armdev on 9/29/2015.
  */
 
 public class SnowmanTwo extends JApplet {
