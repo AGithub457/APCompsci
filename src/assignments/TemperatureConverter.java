@@ -38,7 +38,8 @@ class MainWorker {
         do {
             try {
                 Thread.sleep(1500);
-            } catch (InterruptedException ex) {
+            }
+            catch (InterruptedException ex) {
                 Thread.currentThread().interrupt();
             }
 
@@ -47,7 +48,7 @@ class MainWorker {
 
 
             Scanner keyboard;
-            double degrees = 0.0;
+            double degrees;
 
             while (true) {
                 try {
@@ -60,7 +61,6 @@ class MainWorker {
                     System.out.println("Please enter a valid number");
                 }
             }
-
 
             TempVals tempVals = null;
 
@@ -83,13 +83,16 @@ class MainWorker {
             String a = scan.next().toLowerCase();
             if (a.startsWith ("y")) {
                 continue;
-            } else if (a.startsWith ("n")) {
+            }
+            else if (a.startsWith ("n")) {
                 break;
-            } else {
+            }
+            else {
                 System.out.println("Please choose either Y or N ...");
             }
 
-        } while (true);
+        }
+        while (true);
 
         System.out.println("Byyyyyyyeeeeeeeee!!!!!!!!!!");
     }
@@ -109,16 +112,20 @@ class MainWorker {
             if (a.startsWith("f")) {
                 return TempChoice.Fahrenheit;
 
-            } else if (a.startsWith("c")) {
+            }
+            else if (a.startsWith("c")) {
                 return TempChoice.Celsius;
 
-            } else if (a.startsWith("k")) {
+            }
+            else if (a.startsWith("k")) {
                 return TempChoice.Kelvin;
 
-            } else {
+            }
+            else {
                 System.out.println("Please choose either F, C, or K ...");
             }
-        } catch (Exception ex) {
+        }
+        catch (Exception ex) {
             // break;
         }
 
