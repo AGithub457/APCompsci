@@ -42,10 +42,12 @@ public class SnowmanTwo extends JApplet {
         g.setColor(Color.black);
         g.fillOval(MID2-10, TOP+10, 5, 5);
         g.fillOval(MID2+5, TOP+10, 5, 5);
-        g.drawArc(MID2-10, TOP+20, 20, 10, 190, 160);
+        g.drawArc(MID2-10, TOP+25, 20, 10, -190, -160);
         g.drawLine(MID2-25, TOP+60, MID2-55, TOP+60);
         g.drawLine(MID2+25, TOP+60, MID2+55, TOP+40);
         g.drawLine(MID2-20, TOP+5, MID2+20, TOP+5);
         g.fillRect(MID2-15, TOP-20, 30, 25);
+        g.fillOval(MID2-5, MID2-182, 10, 10);
+        g.fillOval(MID2-5, MID2-165, 10, 10);
     }
 }
