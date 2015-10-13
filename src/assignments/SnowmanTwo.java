@@ -18,8 +18,9 @@ public class SnowmanTwo extends JApplet {
         g.fillRect(0, 0, getWidth(), getHeight());
         g.setColor(Color.blue);
         g.fillRect(0, 175, getWidth(), 50);
+        g.drawString("Armdev", 0, 10);
         g.setColor(Color.yellow);
-        g.fillOval(-40, -40, 80, 80);
+        g.fillOval(360, -40, 80, 80);
 
         g.setColor(Color.white);
         g.fillOval(MID-20, TOP, 40, 40);
