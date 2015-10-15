@@ -19,8 +19,13 @@ public class Average {
             count++;
             sum += value;
             System.out.println("The sum so far is " + sum);
-            System.out.print("Enter an integer (0 to quit): ");
-            value = scan.nextInt();
+            try {
+                System.out.print("Enter an integer (0 to quit): ");
+                value = Integer.parseInt(scan.nextLine());
+            }
+            catch (NumberFormatException nfe) {
+                System.out.println("Only numbers!");
+            }
         }
         System.out.println ();
         if (count == 0) {
