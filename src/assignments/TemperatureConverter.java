@@ -79,8 +79,8 @@ class MainWorker {
 
             Scanner scan = new Scanner(System.in);
             System.out.println("Do you want to make another conversion? (Y/N)");
-
             String a = scan.next().toLowerCase();
+
             if (a.startsWith ("y")) {
                 continue;
             }
