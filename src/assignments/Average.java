@@ -1,6 +1,7 @@
 package assignments;
 
 import java.text.DecimalFormat;
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
@@ -8,25 +9,25 @@ import java.util.Scanner;
  */
 public class Average {
     public static void main(String[] args) {
-        int sum = 0, value, count = 0;
+        int sum = 0, value = 0, count = 0;
         double average;
         Scanner scan = new Scanner(System.in);
 
-        System.out.print("Enter an integer (0 to quit): ");
-        value = scan.nextInt();
-        
-        while (value != 0) {
+        while (value != 0); {
             count++;
             sum += value;
-            System.out.println("The sum so far is " + sum);
             try {
                 System.out.print("Enter an integer (0 to quit): ");
-                value = Integer.parseInt(scan.nextLine());
+                value = scan.nextInt();
             }
-            catch (NumberFormatException nfe) {
-                System.out.println("Only numbers!");
+            catch (InputMismatchException e) {
+                System.out.print("Enter an integer only!!!");
+                scan.next();
             }
+            scan.nextLine();
+            System.out.println("The sum so far is " + sum);
         }
+
         System.out.println ();
         if (count == 0) {
             System.out.println("No values were entered.");
