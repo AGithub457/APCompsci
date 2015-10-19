@@ -16,13 +16,17 @@ public class Average {
         while (value != 0); {
             count++;
             sum += value;
-            try {
-                System.out.print("Enter an integer (0 to quit): ");
-                value = scan.nextInt();
-            }
-            catch (InputMismatchException e) {
-                System.out.print("Enter an integer only!!!");
-                scan.next();
+            
+            System.out.print("Enter an integer (0 to quit): ");
+            while (true) {
+                if (!scan.hasNextInt()) {
+                    scan.next;
+                    System.out.print("Enter an integer only!!!");
+                }
+                else{
+                    value = scan.nextInt();
+                    break;
+                }
             }
             scan.nextLine();
             System.out.println("The sum so far is " + sum);
