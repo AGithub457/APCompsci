@@ -20,7 +20,7 @@ public class Average {
             System.out.print("Enter an integer (0 to quit): ");
             while (true) {
                 if (!scan.hasNextInt()) {
-                    scan.next;
+                    scan.next();
                     System.out.print("Enter an integer only!!!");
                 }
                 else{
