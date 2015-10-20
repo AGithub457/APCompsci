@@ -23,7 +23,7 @@ public class Average {
                     scan.next();
                     System.out.print("Enter an integer only!!!");
                 }
-                else{
+                else {
                     value = scan.nextInt();
                     break;
                 }

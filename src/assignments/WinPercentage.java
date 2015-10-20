@@ -20,7 +20,7 @@ public class WinPercentage {
                 scan.next();
                 System.out.print("Enter an integer only: ");
             }
-            else{
+            else {
                 won = scan.nextInt();
                 break;
             }
@@ -33,7 +33,7 @@ public class WinPercentage {
                     scan.next();
                     System.out.print("Enter an integer only!!!");
                 }
-                else{
+                else {
                     won = scan.nextInt();
                     break;
                 }
