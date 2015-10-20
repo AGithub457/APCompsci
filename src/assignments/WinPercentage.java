@@ -82,7 +82,12 @@ public class WinPercentage {
                     }
                 }
             }
-            System.out.println("Total win/loss/tie does not match the total number of games entered!!\n");
+
+            if (total < numGames) {
+                System.out.println("Total win/loss/tie does not match the total number of games entered!!\n");
+            } else {
+                break;
+            }
         }
 
         ratioWon = (double)won / numGames;
