@@ -1,3 +1,5 @@
+package assignments;
+
 import java.text.NumberFormat;
 import java.util.Scanner;
 
@@ -5,7 +7,7 @@ import java.util.Scanner;
  * Created by Armdev on 10/16/15.
  */
 public class WinPercentage {
-    public static void main(String[] agrs) {
+    public static void main(String[] args) {
         final int numGames = 12;
         int won;
         double ratio;
