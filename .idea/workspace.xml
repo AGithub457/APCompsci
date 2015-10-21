@@ -59,8 +59,8 @@
       <file leaf-file-name="Palindrome.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/assignments/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9594883">
-              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.6140725">
+              <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1137,7 +1137,13 @@
       <option name="project" value="LOCAL" />
       <updated>1445400236210</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="removed excess line">
+      <created>1445400321269</created>
+      <option name="number" value="00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1445400321269</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1189,7 +1195,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Facts" />
     <MESSAGE value="Geometry" />
     <MESSAGE value="Hello World" />
     <MESSAGE value="Quadratic" />
@@ -1214,7 +1219,8 @@
     <MESSAGE value="Palindrome" />
     <MESSAGE value="added integer support" />
     <MESSAGE value="Enter a phrase" />
-    <option name="LAST_COMMIT_MESSAGE" value="Enter a phrase" />
+    <MESSAGE value="removed excess line" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed excess line" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1606,8 +1612,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assignments/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9594883">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.6140725">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

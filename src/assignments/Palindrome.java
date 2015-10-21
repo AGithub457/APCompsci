@@ -13,9 +13,12 @@ public class Palindrome {
 
         System.out.println("Enter a phrase: ");
         word = scan.nextLine();
+        //wordR = word;
+        //new StringBuilder(wordR).reverse().toString();
 
         char[] wordArray = word.toCharArray();
         char[] wordRArray = new StringBuilder(word).reverse().toString().toCharArray();
+        //char[] wordRArray = wordR.toCharArray();
 
         if (Arrays.equals(wordArray, wordRArray)) {
             System.out.println("This is a palindrome");
