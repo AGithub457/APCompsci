@@ -11,7 +11,7 @@ public class Palindrome {
         String word;
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Enter a word: ");
+        System.out.println("Enter a phrase: ");
         word = scan.nextLine();
 
         char[] wordArray = word.toCharArray();
