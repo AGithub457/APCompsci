@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c7a05ec-5387-4712-be6a-871a94803e06" name="Default" comment="WinPercentage">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/Palindrome.java" />
+    <list default="true" id="2c7a05ec-5387-4712-be6a-871a94803e06" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Palindrome.java" afterPath="$PROJECT_DIR$/src/assignments/Palindrome.java" />
     </list>
     <ignored path="CompSci.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,8 +59,8 @@
       <file leaf-file-name="Palindrome.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/assignments/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19282511">
-              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.48430493">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1119,7 +1119,13 @@
       <option name="project" value="LOCAL" />
       <updated>1445316154595</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Palindrome">
+      <created>1445400114839</created>
+      <option name="number" value="00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1445400114839</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1171,7 +1177,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="JLine" />
     <MESSAGE value="Distance" />
     <MESSAGE value="Echo" />
     <MESSAGE value="Facts" />
@@ -1196,7 +1201,8 @@
     <MESSAGE value="Matrix" />
     <MESSAGE value="Average" />
     <MESSAGE value="WinPercentage" />
-    <option name="LAST_COMMIT_MESSAGE" value="WinPercentage" />
+    <MESSAGE value="Palindrome" />
+    <option name="LAST_COMMIT_MESSAGE" value="Palindrome" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1588,8 +1594,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assignments/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19282511">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.48430493">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

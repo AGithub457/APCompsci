@@ -12,15 +12,7 @@ public class Palindrome {
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Enter a word: ");
-        while (true) {
-            if (!scan.hasNextLine()) {
-                scan.next();
-                System.out.print("Enter a word only: ");
-            } else {
-                word = scan.nextLine();
-                break;
-            }
-        }
+        word = scan.nextLine();
 
         char[] wordArray = word.toCharArray();
         char[] wordRArray = new StringBuilder(word).reverse().toString().toCharArray();
