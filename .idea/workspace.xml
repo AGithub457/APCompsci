@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2c7a05ec-5387-4712-be6a-871a94803e06" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawDiamonds.java" afterPath="$PROJECT_DIR$/src/assignments/DrawDiamonds.java" />
     </list>
     <ignored path="CompSci.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -876,12 +875,6 @@
       <option name="number" value="Default" />
       <updated>1444535109485</updated>
     </task>
-    <task id="LOCAL-00007" summary="Distance">
-      <created>1444599790230</created>
-      <option name="number" value="00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1444599790230</updated>
-    </task>
     <task id="LOCAL-00008" summary="Armdev">
       <created>1444600019396</created>
       <option name="number" value="00008" />
@@ -1170,7 +1163,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446538961111</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Draw Diamonds">
+      <created>1446539045369</created>
+      <option name="number" value="00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1446539045369</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TodoView">
