@@ -29,8 +29,8 @@
       <file leaf-file-name="DrawDiamonds.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/assignments/DrawDiamonds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44469526">
-              <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+            <state vertical-scroll-proportion="1.5823928">
+              <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -876,12 +876,6 @@
       <option name="number" value="Default" />
       <updated>1444535109485</updated>
     </task>
-    <task id="LOCAL-00006" summary="Distance">
-      <created>1444599697333</created>
-      <option name="number" value="00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1444599697333</updated>
-    </task>
     <task id="LOCAL-00007" summary="Distance">
       <created>1444599790230</created>
       <option name="number" value="00007" />
@@ -1170,7 +1164,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446538426823</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Draw Diamonds">
+      <created>1446538961111</created>
+      <option name="number" value="00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1446538961111</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1671,8 +1671,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assignments/DrawDiamonds.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44469526">
-          <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+        <state vertical-scroll-proportion="1.5823928">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

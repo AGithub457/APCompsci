@@ -40,6 +40,7 @@ public class DrawDiamonds {
             }
         }
 
+        //top
         for(int i = 1; i < width + 1; i += 2) {
             for(int j = 0; j < (width / 2) - i / 2; j++) {
                 System.out.print(" ");
@@ -49,15 +50,18 @@ public class DrawDiamonds {
                 System.out.print("*");
             }
 
-            System.out.print("\n");
+            System.out.println("");
         }
 
+        //middle if necessary for extra height
         for(int i = 1; i <= width; i++) {
             starM += "*";
         }
         for(int i = 1; i <= heightT; i++) {
             System.out.println(starM);
         }
+
+        //bottom
         for(int i = width - 2; i > 0; i -= 2) {
             for (int j = 0; j < (width / 2) - i / 2; j++) {
                 System.out.print(" ");
@@ -67,7 +71,7 @@ public class DrawDiamonds {
                 System.out.print("*");
             }
 
-            System.out.print("\n");
+            System.out.println("");
         }
     }
 }
