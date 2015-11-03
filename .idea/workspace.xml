@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c7a05ec-5387-4712-be6a-871a94803e06" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/AbeToBabe.class" afterPath="$PROJECT_DIR$/target/classes/assignments/AbeToBabe.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Age.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Age.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/AreaOfTriangle.class" afterPath="$PROJECT_DIR$/target/classes/assignments/AreaOfTriangle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Average.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Average.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/CircleArea.class" afterPath="$PROJECT_DIR$/target/classes/assignments/CircleArea.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Distance.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Distance.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Echo.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Echo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Facts.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Facts.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Geometry.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Geometry.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/HelloWorld.class" afterPath="$PROJECT_DIR$/target/classes/assignments/HelloWorld.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/MainWorker$1.class" afterPath="$PROJECT_DIR$/target/classes/assignments/MainWorker$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/MainWorker.class" afterPath="$PROJECT_DIR$/target/classes/assignments/MainWorker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/MinOfThree.class" afterPath="$PROJECT_DIR$/target/classes/assignments/MinOfThree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Quadratic.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Quadratic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/RandomNumbers.class" afterPath="$PROJECT_DIR$/target/classes/assignments/RandomNumbers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/RandomPhoneNumber.class" afterPath="$PROJECT_DIR$/target/classes/assignments/RandomPhoneNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Snowman.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Snowman.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/SnowmanTwo.class" afterPath="$PROJECT_DIR$/target/classes/assignments/SnowmanTwo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/TempChoice.class" afterPath="$PROJECT_DIR$/target/classes/assignments/TempChoice.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/TempVals.class" afterPath="$PROJECT_DIR$/target/classes/assignments/TempVals.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/TemperatureConverter.class" afterPath="$PROJECT_DIR$/target/classes/assignments/TemperatureConverter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThem.class" afterPath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThemPlus.class" afterPath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThemPlus.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/other/JLine.class" afterPath="$PROJECT_DIR$/target/classes/other/JLine.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/other/Matrix.class" afterPath="$PROJECT_DIR$/target/classes/other/Matrix.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawDiamonds.java" afterPath="$PROJECT_DIR$/src/assignments/DrawDiamonds.java" />
     </list>
     <ignored path="CompSci.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,8 +28,8 @@
       <file leaf-file-name="DrawDiamonds.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/assignments/DrawDiamonds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34988713">
-              <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.6343115">
+              <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -901,12 +875,6 @@
       <option name="number" value="Default" />
       <updated>1444535109485</updated>
     </task>
-    <task id="LOCAL-00003" summary="Area of Triangle">
-      <created>1444598848645</created>
-      <option name="number" value="00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1444598848645</updated>
-    </task>
     <task id="LOCAL-00004" summary="Circle Area">
       <created>1444598948452</created>
       <option name="number" value="00004" />
@@ -1195,7 +1163,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446530233731</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Draw Diamonds">
+      <created>1446537026496</created>
+      <option name="number" value="00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1446537026496</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1696,8 +1670,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assignments/DrawDiamonds.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34988713">
-          <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.6343115">
+          <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
