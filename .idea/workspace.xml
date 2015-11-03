@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c7a05ec-5387-4712-be6a-871a94803e06" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/DrawDiamonds.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawDiamonds.java" afterPath="$PROJECT_DIR$/src/assignments/DrawDiamonds.java" />
     </list>
     <ignored path="CompSci.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,11 +29,9 @@
       <file leaf-file-name="DrawDiamonds.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/assignments/DrawDiamonds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.51241535">
-              <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.36568847">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -911,12 +909,6 @@
       <option name="number" value="Default" />
       <updated>1444535109485</updated>
     </task>
-    <task id="LOCAL-00001" summary="Abe To Babe">
-      <created>1444535999585</created>
-      <option name="number" value="00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1444535999585</updated>
-    </task>
     <task id="LOCAL-00002" summary="Age">
       <created>1444598614182</created>
       <option name="number" value="00002" />
@@ -1205,7 +1197,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446527242580</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Draw Diamonds">
+      <created>1446530207445</created>
+      <option name="number" value="00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1446530207446</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1281,7 +1279,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Snowman" />
     <MESSAGE value="Snowman 2" />
     <MESSAGE value="Temperature Converter" />
     <MESSAGE value="Temperature Converter Fix" />
@@ -1306,7 +1303,8 @@
     <MESSAGE value="Matrix" />
     <MESSAGE value="DrawBoxes" />
     <MESSAGE value="Copyright" />
-    <option name="LAST_COMMIT_MESSAGE" value="Copyright" />
+    <MESSAGE value="Draw Diamonds" />
+    <option name="LAST_COMMIT_MESSAGE" value="Draw Diamonds" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1713,11 +1711,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assignments/DrawDiamonds.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51241535">
-          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.36568847">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
