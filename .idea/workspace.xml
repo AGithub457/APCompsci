@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c7a05ec-5387-4712-be6a-871a94803e06" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/DrawDiamonds.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/AbeToBabe.java" afterPath="$PROJECT_DIR$/src/assignments/AbeToBabe.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Age.java" afterPath="$PROJECT_DIR$/src/assignments/Age.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Alphabetizer.java" afterPath="$PROJECT_DIR$/src/assignments/Alphabetizer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/AreaOfTriangle.java" afterPath="$PROJECT_DIR$/src/assignments/AreaOfTriangle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Average.java" afterPath="$PROJECT_DIR$/src/assignments/Average.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/CircleArea.java" afterPath="$PROJECT_DIR$/src/assignments/CircleArea.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Distance.java" afterPath="$PROJECT_DIR$/src/assignments/Distance.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawBoxes.java" afterPath="$PROJECT_DIR$/src/assignments/DrawBoxes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Echo.java" afterPath="$PROJECT_DIR$/src/assignments/Echo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Facts.java" afterPath="$PROJECT_DIR$/src/assignments/Facts.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Geometry.java" afterPath="$PROJECT_DIR$/src/assignments/Geometry.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/HelloWorld.java" afterPath="$PROJECT_DIR$/src/assignments/HelloWorld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/MinOfThree.java" afterPath="$PROJECT_DIR$/src/assignments/MinOfThree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Palindrome.java" afterPath="$PROJECT_DIR$/src/assignments/Palindrome.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Quadratic.java" afterPath="$PROJECT_DIR$/src/assignments/Quadratic.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/RandomNumbers.java" afterPath="$PROJECT_DIR$/src/assignments/RandomNumbers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/RandomPhoneNumber.java" afterPath="$PROJECT_DIR$/src/assignments/RandomPhoneNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Snowman.java" afterPath="$PROJECT_DIR$/src/assignments/Snowman.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/SnowmanTwo.java" afterPath="$PROJECT_DIR$/src/assignments/SnowmanTwo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/TemperatureConverter.java" afterPath="$PROJECT_DIR$/src/assignments/TemperatureConverter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/WinPercentage.java" afterPath="$PROJECT_DIR$/src/assignments/WinPercentage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/YouMeUsThem.java" afterPath="$PROJECT_DIR$/src/assignments/YouMeUsThem.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/YouMeUsThemPlus.java" afterPath="$PROJECT_DIR$/src/assignments/YouMeUsThemPlus.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/other/JLine.java" afterPath="$PROJECT_DIR$/src/other/JLine.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/other/Matrix.java" afterPath="$PROJECT_DIR$/src/other/Matrix.java" />
     </list>
     <ignored path="CompSci.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,92 +26,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Quadratic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignments/Quadratic.java">
+      <file leaf-file-name="DrawDiamonds.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assignments/DrawDiamonds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="18" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SnowmanTwo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignments/SnowmanTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TemperatureConverter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignments/TemperatureConverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WinPercentage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignments/WinPercentage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="YouMeUsThem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignments/YouMeUsThem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="YouMeUsThemPlus.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignments/YouMeUsThemPlus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JLine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/JLine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Matrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/Matrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LICENSE">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33389544">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-              <folding />
+            <state vertical-scroll-proportion="0.51241535">
+              <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -197,6 +94,7 @@
         <option value="$PROJECT_DIR$/src/other/Matrix.java" />
         <option value="$PROJECT_DIR$/LICENSE" />
         <option value="$PROJECT_DIR$/NOTICE" />
+        <option value="$PROJECT_DIR$/src/assignments/DrawDiamonds.java" />
       </list>
     </option>
   </component>
@@ -362,7 +260,7 @@
       <recent name="C:\Users\Armand\Documents\GitHub\CompSci\src\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DrawBoxes">
+  <component name="RunManager" selected="Application.DrawDiamonds">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -646,6 +544,21 @@
     <configuration default="false" name="DrawBoxes" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="assignments.DrawBoxes" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CompSci" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DrawDiamonds" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="assignments.DrawDiamonds" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -958,32 +871,33 @@
       <envs />
       <method />
     </configuration>
-    <list size="25">
+    <list size="26">
       <item index="0" class="java.lang.String" itemvalue="Applet.Snowman" />
       <item index="1" class="java.lang.String" itemvalue="Applet.SnowmanTwo" />
       <item index="2" class="java.lang.String" itemvalue="Applet.YouMeUsThem" />
       <item index="3" class="java.lang.String" itemvalue="Applet.YouMeUsThemPlus" />
       <item index="4" class="java.lang.String" itemvalue="Application.DrawBoxes" />
-      <item index="5" class="java.lang.String" itemvalue="Application.AbeToBabe" />
-      <item index="6" class="java.lang.String" itemvalue="Application.Age" />
-      <item index="7" class="java.lang.String" itemvalue="Application.Alphabetizer" />
-      <item index="8" class="java.lang.String" itemvalue="Application.AreaOfTriangle" />
-      <item index="9" class="java.lang.String" itemvalue="Application.Average" />
-      <item index="10" class="java.lang.String" itemvalue="Application.CircleArea" />
-      <item index="11" class="java.lang.String" itemvalue="Application.Distance" />
-      <item index="12" class="java.lang.String" itemvalue="Application.Echo" />
-      <item index="13" class="java.lang.String" itemvalue="Application.Facts" />
-      <item index="14" class="java.lang.String" itemvalue="Application.Geometry" />
-      <item index="15" class="java.lang.String" itemvalue="Application.HelloWorld" />
-      <item index="16" class="java.lang.String" itemvalue="Application.JLine" />
-      <item index="17" class="java.lang.String" itemvalue="Application.Matrix" />
-      <item index="18" class="java.lang.String" itemvalue="Application.MinOfThree" />
-      <item index="19" class="java.lang.String" itemvalue="Application.Palindrome" />
-      <item index="20" class="java.lang.String" itemvalue="Application.Quadratic" />
-      <item index="21" class="java.lang.String" itemvalue="Application.RandomNumbers" />
-      <item index="22" class="java.lang.String" itemvalue="Application.RandomPhoneNumber" />
-      <item index="23" class="java.lang.String" itemvalue="Application.TemperatureConverter" />
-      <item index="24" class="java.lang.String" itemvalue="Application.WinPercentage" />
+      <item index="5" class="java.lang.String" itemvalue="Application.DrawDiamonds" />
+      <item index="6" class="java.lang.String" itemvalue="Application.AbeToBabe" />
+      <item index="7" class="java.lang.String" itemvalue="Application.Age" />
+      <item index="8" class="java.lang.String" itemvalue="Application.Alphabetizer" />
+      <item index="9" class="java.lang.String" itemvalue="Application.AreaOfTriangle" />
+      <item index="10" class="java.lang.String" itemvalue="Application.Average" />
+      <item index="11" class="java.lang.String" itemvalue="Application.CircleArea" />
+      <item index="12" class="java.lang.String" itemvalue="Application.Distance" />
+      <item index="13" class="java.lang.String" itemvalue="Application.Echo" />
+      <item index="14" class="java.lang.String" itemvalue="Application.Facts" />
+      <item index="15" class="java.lang.String" itemvalue="Application.Geometry" />
+      <item index="16" class="java.lang.String" itemvalue="Application.HelloWorld" />
+      <item index="17" class="java.lang.String" itemvalue="Application.JLine" />
+      <item index="18" class="java.lang.String" itemvalue="Application.Matrix" />
+      <item index="19" class="java.lang.String" itemvalue="Application.MinOfThree" />
+      <item index="20" class="java.lang.String" itemvalue="Application.Palindrome" />
+      <item index="21" class="java.lang.String" itemvalue="Application.Quadratic" />
+      <item index="22" class="java.lang.String" itemvalue="Application.RandomNumbers" />
+      <item index="23" class="java.lang.String" itemvalue="Application.RandomPhoneNumber" />
+      <item index="24" class="java.lang.String" itemvalue="Application.TemperatureConverter" />
+      <item index="25" class="java.lang.String" itemvalue="Application.WinPercentage" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -1285,7 +1199,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446014044353</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Copyright">
+      <created>1446527242580</created>
+      <option name="number" value="00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1446527242580</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1303,10 +1223,12 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268921" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2415459" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20196672" sideWeight="0.4916067" order="0" side_tool="false" content_ui="tabs" />
@@ -1314,15 +1236,13 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5083933" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25603864" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3268921" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2415459" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25603864" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1785,9 +1705,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33389544">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/DrawDiamonds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51241535">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
