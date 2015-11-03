@@ -25,10 +25,10 @@ public class DrawDiamonds {
         Scanner scan = new Scanner(System.in);
 
         while(true) {
-            System.out.println("Enter width of diamond (odd number between 0-19): ");
+            System.out.println("Enter width of diamond (odd number between 0-31): ");
             width = scan.nextInt();
             if (width % 2 != 0) {
-                if (0 <= width && width <= 19) {
+               if (0 <= width && width <= 31) {
                     break;
                 }
             }
@@ -37,13 +37,12 @@ public class DrawDiamonds {
             System.out.println("Enter height of diamond (greater than or equal to width): ");
             height = scan.nextInt();
             if(height >= width) {
-                heightT = height - width;
                 break;
             }
         }
 
         for(int i = 1; i < width + 1; i += 2) {
-            for(int j = 0; j < 9 - i / 2; j++) {
+            for(int j = 0; j < 15 - i / 2; j++) {
                 System.out.print(" ");
             }
 
@@ -55,7 +54,7 @@ public class DrawDiamonds {
         }
 
         for(int i = width - 2; i > 0; i -= 2) {
-            for (int j = 0; j < 9 - i / 2; j++) {
+            for (int j = 0; j < 15 - i / 2; j++) {
                 System.out.print(" ");
             }
 
