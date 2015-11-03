@@ -2,6 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c7a05ec-5387-4712-be6a-871a94803e06" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/AbeToBabe.class" afterPath="$PROJECT_DIR$/target/classes/assignments/AbeToBabe.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Age.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Age.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/AreaOfTriangle.class" afterPath="$PROJECT_DIR$/target/classes/assignments/AreaOfTriangle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Average.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Average.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/CircleArea.class" afterPath="$PROJECT_DIR$/target/classes/assignments/CircleArea.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Distance.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Distance.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Echo.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Echo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Facts.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Facts.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Geometry.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Geometry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/HelloWorld.class" afterPath="$PROJECT_DIR$/target/classes/assignments/HelloWorld.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/MainWorker$1.class" afterPath="$PROJECT_DIR$/target/classes/assignments/MainWorker$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/MainWorker.class" afterPath="$PROJECT_DIR$/target/classes/assignments/MainWorker.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/MinOfThree.class" afterPath="$PROJECT_DIR$/target/classes/assignments/MinOfThree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Quadratic.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Quadratic.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/RandomNumbers.class" afterPath="$PROJECT_DIR$/target/classes/assignments/RandomNumbers.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/RandomPhoneNumber.class" afterPath="$PROJECT_DIR$/target/classes/assignments/RandomPhoneNumber.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Snowman.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Snowman.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/SnowmanTwo.class" afterPath="$PROJECT_DIR$/target/classes/assignments/SnowmanTwo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/TempChoice.class" afterPath="$PROJECT_DIR$/target/classes/assignments/TempChoice.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/TempVals.class" afterPath="$PROJECT_DIR$/target/classes/assignments/TempVals.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/TemperatureConverter.class" afterPath="$PROJECT_DIR$/target/classes/assignments/TemperatureConverter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThem.class" afterPath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThem.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThemPlus.class" afterPath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThemPlus.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/other/JLine.class" afterPath="$PROJECT_DIR$/target/classes/other/JLine.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/other/Matrix.class" afterPath="$PROJECT_DIR$/target/classes/other/Matrix.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawDiamonds.java" afterPath="$PROJECT_DIR$/src/assignments/DrawDiamonds.java" />
     </list>
@@ -29,9 +54,11 @@
       <file leaf-file-name="DrawDiamonds.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/assignments/DrawDiamonds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36568847">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-              <folding />
+            <state vertical-scroll-proportion="0.34988713">
+              <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -92,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/other/Matrix.java" />
         <option value="$PROJECT_DIR$/LICENSE" />
         <option value="$PROJECT_DIR$/NOTICE" />
+        <option value="$PROJECT_DIR$/src/assignments/test.java" />
         <option value="$PROJECT_DIR$/src/assignments/DrawDiamonds.java" />
       </list>
     </option>
@@ -196,42 +224,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="other" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CompSci" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CompSci" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CompSci" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CompSci" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assignments" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -909,12 +901,6 @@
       <option name="number" value="Default" />
       <updated>1444535109485</updated>
     </task>
-    <task id="LOCAL-00002" summary="Age">
-      <created>1444598614182</created>
-      <option name="number" value="00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1444598614182</updated>
-    </task>
     <task id="LOCAL-00003" summary="Area of Triangle">
       <created>1444598848645</created>
       <option name="number" value="00003" />
@@ -1203,7 +1189,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446530207446</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Draw Diamonds">
+      <created>1446530233731</created>
+      <option name="number" value="00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1446530233731</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1317,13 +1309,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/assignments/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assignments/RandomPhoneNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1711,9 +1696,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assignments/DrawDiamonds.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36568847">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding />
+        <state vertical-scroll-proportion="0.34988713">
+          <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
