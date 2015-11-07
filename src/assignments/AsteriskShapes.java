@@ -31,35 +31,36 @@ public class AsteriskShapes {
         String choice = scan.next();
         int width = shapeWidth();
 
-        if(choice.equalsIgnoreCase("a")) {
+        if (choice.equalsIgnoreCase("a")) {
             for (int i = 1; i < width + 1; i++) {
                 for (int j = 0; j < i; j++) {
                     System.out.print("*");
                 }
                 System.out.println("");
             }
-        } else if(choice.equalsIgnoreCase("b")) {
+        } else if (choice.equalsIgnoreCase("b")) {
             for (int i = width; i > 0; i--) {
-               for (int j = 0; j < i; j++) {
+                for (int j = 0; j < i; j++) {
                     System.out.print("*");
                 }
                 System.out.println("");
             }
-        } else if(choice.equalsIgnoreCase("c")) {
+        } else if (choice.equalsIgnoreCase("c")) {
             top(width);
-        } else if(choice.equalsIgnoreCase("d")) {
-            for (int i = width; i > 0; i-= 2) {
+        } else if (choice.equalsIgnoreCase("d")) {
+            for (int i = width; i > 0; i -= 2) {
                 for (int j = 0; j < (width / 2) - i / 2; j++) {
                     System.out.print(" ");
-                } for (int j = 0; j < i; j++) {
+                }
+                for (int j = 0; j < i; j++) {
                     System.out.print("*");
                 }
                 System.out.println("");
             }
-        } else if(choice.equalsIgnoreCase("e")) {
+        } else if (choice.equalsIgnoreCase("e")) {
             top(width);
             bottom(width);
-        } else if(choice.equalsIgnoreCase("f")) {
+        } else if (choice.equalsIgnoreCase("f")) {
             int height = shapeHeight(width);
 
             top(width);
@@ -71,7 +72,7 @@ public class AsteriskShapes {
     }
 
     static int shapeWidth() {
-        while(true) {
+        while (true) {
             System.out.println("Enter width of diamond (odd number): ");
             int width = scan.nextInt();
             if (width % 2 != 0) {
