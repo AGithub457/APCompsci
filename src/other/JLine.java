@@ -1,9 +1,3 @@
-package other;
-
-import jline.TerminalFactory;
-import jline.console.ConsoleReader;
-import java.io.IOException;
-
 /**
  * Copyright (C) 2015 Armdev
  *
@@ -19,6 +13,14 @@ import java.io.IOException;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+package other;
+
+import jline.TerminalFactory;
+import jline.console.ConsoleReader;
+
+import java.io.IOException;
+
 public class JLine {
     public static void main(String[] args) {
         try {

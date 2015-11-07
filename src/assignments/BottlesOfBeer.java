@@ -14,32 +14,32 @@
  * limitations under the License.
  */
  
- package assignments;
+package assignments;
 
-public class BoxesOfStoges {
+public class BottlesOfBeer {
     public static void main(String[] args) {
         for(int count = 99; count >= 0; count--) {
             int count2 = count - 1;
 
             if(count == 1) {
-                System.out.println(count + " box of stoges on the floor");
-                System.out.println(count + " box of stoges");
+                System.out.println(count + " bottle of beer on the floor");
+                System.out.println(count + " bottle of beer");
                 System.out.println("Pick one up, pass it around");
-                System.out.println(count2 + " boxes of stoges on the floor\n");
+                System.out.println(count2 + " bottles of beer on the floor\n");
             } else if(count == 0) {
-                System.out.println(count + " boxes of stoges on the floor");
-                System.out.println(count + " boxes of stoges");
+                System.out.println(count + " bottles of beer on the floor");
+                System.out.println(count + " bottles of beer");
                 System.out.println("Go to the store, buy some more");
-                int count2 = 99;
-                System.out.println(count2 + " boxes of stoges on the floor\n:)");
+                count2 = 99;
+                System.out.println(count2 + " bottles of beer on the floor\n:)");
             } else {
-                System.out.println(count + " boxes of stoges on the floor");
-                System.out.println(count + " boxes of stoges");
+                System.out.println(count + " bottles of beer on the floor");
+                System.out.println(count + " bottles of beer");
                 System.out.println("Pick one up, pass it around");
                 if(count2 == 1) {
-                    System.out.println(count2 + " box of stoges on the floor\n");
+                    System.out.println(count2 + " bottle of beer on the floor\n");
                 } else {
-                    System.out.println(count2 + " boxes of stoges on the floor\n");
+                    System.out.println(count2 + " bottles of beer on the floor\n");
                 }
             }
         }

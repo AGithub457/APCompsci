@@ -1,8 +1,3 @@
-package assignments;
-
-import java.text.DecimalFormat;
-import java.util.Random;
-
 /**
  * Copyright (C) 2015 Armdev
  *
@@ -18,6 +13,12 @@ import java.util.Random;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+package assignments;
+
+import java.text.DecimalFormat;
+import java.util.Random;
+
 public class RandomPhoneNumber {
     public static void main(String[] args) {
 

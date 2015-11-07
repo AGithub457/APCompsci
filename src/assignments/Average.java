@@ -1,9 +1,3 @@
-package assignments;
-
-import java.text.DecimalFormat;
-import java.util.InputMismatchException;
-import java.util.Scanner;
-
 /**
  * Copyright (C) 2015 Armdev
  *
@@ -19,6 +13,12 @@ import java.util.Scanner;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+package assignments;
+
+import java.text.DecimalFormat;
+import java.util.Scanner;
+
 public class Average {
     public static void main(String[] args) {
         int sum = 0, value = 0, count = 0;

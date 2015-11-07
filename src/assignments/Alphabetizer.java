@@ -1,8 +1,3 @@
-package assignments;
-
-import java.util.ArrayList;
-import java.util.Scanner;
-
 /**
  * Copyright (C) 2015 Armdev
  *
@@ -18,6 +13,12 @@ import java.util.Scanner;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+package assignments;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
 public class Alphabetizer {
     public static void main(String[] args) {
         String input;

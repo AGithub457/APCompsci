@@ -1,8 +1,3 @@
-package assignments;
-
-import javax.swing.*;
-import java.awt.*;
-
 /**
  * Copyright (C) 2015 Armdev
  *
@@ -18,6 +13,12 @@ import java.awt.*;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+package assignments;
+
+import javax.swing.*;
+import java.awt.*;
+
 public class YouMeUsThemPlus extends JApplet {
 
     public void paint ( Graphics g )

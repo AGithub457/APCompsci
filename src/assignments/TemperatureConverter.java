@@ -1,7 +1,3 @@
-package assignments;
-
-import java.util.Scanner;
-
 /**
  * Copyright (C) 2015 Armdev
  *
@@ -17,6 +13,11 @@ import java.util.Scanner;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+package assignments;
+
+import java.util.Scanner;
+
 public class TemperatureConverter {
 
     public static void main(String[] args){
@@ -45,7 +46,7 @@ class MainWorker {
     final String DEGREE = "\u00b0";
 
 
-    public  void DoWork () {
+    public void DoWork () {
 
 
         System.out.println("Welcome to Temperature Converter v1.0");

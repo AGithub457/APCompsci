@@ -1,7 +1,3 @@
-package other;
-
-import java.util.*;
-
 /**
  * Copyright (C) 2015 Armdev
  *
@@ -17,6 +13,11 @@ import java.util.*;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+package other;
+
+import java.util.Scanner;
+
 public class Matrix {
     public static void main(String[] args){
 

@@ -1,5 +1,3 @@
-package assignments;
-
 /**
  * Copyright (C) 2015 Armdev
  *
@@ -15,6 +13,9 @@ package assignments;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+package assignments;
+
 public class Geometry {
     public static void main(String[] args) {
         int sides = 7;
