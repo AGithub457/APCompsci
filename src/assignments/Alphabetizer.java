@@ -1,12 +1,12 @@
 /**
  * Copyright (C) 2015 Armdev
- *
+ * <p>
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
- *
- *       http://www.apache.org/licenses/LICENSE-2.0
- *
+ * <p>
+ * http://www.apache.org/licenses/LICENSE-2.0
+ * <p>
  * Unless required by applicable law or agreed to in writing, software
  * distributed under the License is distributed on an "AS IS" BASIS,
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -28,13 +28,13 @@ public class Alphabetizer {
         Scanner scan = new Scanner(System.in);
 
         alphaAsk:
-        while(true) {
+        while (true) {
             System.out.println("Enter a word to alphabetize: ");
             input = scan.nextLine();
             ar.add(input);
 
             System.out.println("Do you want to enter another word to alphabetize? (Y/N)");
-            while(true) {
+            while (true) {
                 yn = scan.nextLine();
                 if (yn.equalsIgnoreCase("n")) {
                     break alphaAsk;
@@ -47,8 +47,7 @@ public class Alphabetizer {
         }
 
         java.util.Collections.sort(ar);
-        for (String s : ar)
-        {
+        for (String s : ar) {
             sorted += s + "\n";
         }
 

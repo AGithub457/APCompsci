@@ -1,12 +1,12 @@
 /**
  * Copyright (C) 2015 Armdev
- *
+ * <p>
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
- *
- *       http://www.apache.org/licenses/LICENSE-2.0
- *
+ * <p>
+ * http://www.apache.org/licenses/LICENSE-2.0
+ * <p>
  * Unless required by applicable law or agreed to in writing, software
  * distributed under the License is distributed on an "AS IS" BASIS,
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -20,7 +20,7 @@ import java.util.Scanner;
 
 public class TemperatureConverter {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         MainWorker mainWorker = new MainWorker();
         mainWorker.DoWork();
@@ -46,7 +46,7 @@ class MainWorker {
     final String DEGREE = "\u00b0";
 
 
-    public void DoWork () {
+    public void DoWork() {
 
 
         System.out.println("Welcome to Temperature Converter v1.0");
@@ -54,8 +54,7 @@ class MainWorker {
         do {
             try {
                 Thread.sleep(1500);
-            }
-            catch (InterruptedException ex) {
+            } catch (InterruptedException ex) {
                 Thread.currentThread().interrupt();
             }
 
@@ -81,11 +80,16 @@ class MainWorker {
             TempVals tempVals = null;
 
             switch (tempChoice) {
-                case Celsius: tempVals = convertC(degrees); break;
-                case Fahrenheit: tempVals = convertF(degrees); break;
-                case Kelvin: tempVals = convertK(degrees); break;
+                case Celsius:
+                    tempVals = convertC(degrees);
+                    break;
+                case Fahrenheit:
+                    tempVals = convertF(degrees);
+                    break;
+                case Kelvin:
+                    tempVals = convertK(degrees);
+                    break;
             }
-
 
 
             System.out.println("Temperature in Fahrenheit: " + String.valueOf(tempVals.Far) + DEGREE + "F");
@@ -97,13 +101,11 @@ class MainWorker {
             System.out.println("Do you want to make another conversion? (Y/N)");
             String a = scan.next().toLowerCase();
 
-            if (a.startsWith ("y")) {
+            if (a.startsWith("y")) {
                 continue;
-            }
-            else if (a.startsWith ("n")) {
+            } else if (a.startsWith("n")) {
                 break;
-            }
-            else {
+            } else {
                 System.out.println("Please choose either Y or N ...");
             }
 
@@ -128,20 +130,16 @@ class MainWorker {
             if (a.startsWith("f")) {
                 return TempChoice.Fahrenheit;
 
-            }
-            else if (a.startsWith("c")) {
+            } else if (a.startsWith("c")) {
                 return TempChoice.Celsius;
 
-            }
-            else if (a.startsWith("k")) {
+            } else if (a.startsWith("k")) {
                 return TempChoice.Kelvin;
 
-            }
-            else {
+            } else {
                 System.out.println("Please choose either F, C, or K ...");
             }
-        }
-        catch (Exception ex) {
+        } catch (Exception ex) {
             // break;
         }
 
@@ -149,7 +147,7 @@ class MainWorker {
         return TempChoice.Other;
     }
 
-    public  TempVals convertF(double degrees) {
+    public TempVals convertF(double degrees) {
 
         TempVals retVals = new TempVals();
 

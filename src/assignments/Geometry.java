@@ -1,12 +1,12 @@
 /**
  * Copyright (C) 2015 Armdev
- *
+ * <p>
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
- *
- *       http://www.apache.org/licenses/LICENSE-2.0
- *
+ * <p>
+ * http://www.apache.org/licenses/LICENSE-2.0
+ * <p>
  * Unless required by applicable law or agreed to in writing, software
  * distributed under the License is distributed on an "AS IS" BASIS,
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -19,12 +19,12 @@ package assignments;
 public class Geometry {
     public static void main(String[] args) {
         int sides = 7;
-        System.out.println ("A heptagon has " + sides + " sides.");
+        System.out.println("A heptagon has " + sides + " sides.");
 
         sides = 10;
-        System.out.println ("A decagon has " + sides + " sides.");
+        System.out.println("A decagon has " + sides + " sides.");
 
         sides = 12;
-        System.out.print ("A dodecagon has " + sides + " sides.");
+        System.out.print("A dodecagon has " + sides + " sides.");
     }
 }

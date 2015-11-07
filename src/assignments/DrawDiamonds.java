@@ -1,12 +1,12 @@
 /**
  * Copyright (C) 2015 Armdev
- *
+ * <p>
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
- *
- *       http://www.apache.org/licenses/LICENSE-2.0
- *
+ * <p>
+ * http://www.apache.org/licenses/LICENSE-2.0
+ * <p>
  * Unless required by applicable law or agreed to in writing, software
  * distributed under the License is distributed on an "AS IS" BASIS,
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -24,29 +24,29 @@ public class DrawDiamonds {
         String starM = "";
         Scanner scan = new Scanner(System.in);
 
-        while(true) {
+        while (true) {
             System.out.println("Enter width of diamond (odd number): ");
             width = scan.nextInt();
             if (width % 2 != 0) {
                 break;
             }
         }
-        while(true) {
+        while (true) {
             System.out.println("Enter height of diamond (greater than or equal to width): ");
             height = scan.nextInt();
-            if(height >= width) {
+            if (height >= width) {
                 heightT = height - width;
                 break;
             }
         }
 
         //top
-        for(int i = 1; i < width + 1; i += 2) {
-            for(int j = 0; j < (width / 2) - i / 2; j++) {
+        for (int i = 1; i < width + 1; i += 2) {
+            for (int j = 0; j < (width / 2) - i / 2; j++) {
                 System.out.print(" ");
             }
 
-            for(int j = 0; j < i; j++) {
+            for (int j = 0; j < i; j++) {
                 System.out.print("*");
             }
 
@@ -54,15 +54,15 @@ public class DrawDiamonds {
         }
 
         //middle if necessary for extra height
-        for(int i = 1; i <= width; i++) {
+        for (int i = 1; i <= width; i++) {
             starM += "*";
         }
-        for(int i = 1; i <= heightT; i++) {
+        for (int i = 1; i <= heightT; i++) {
             System.out.println(starM);
         }
 
         //bottom
-        for(int i = width - 2; i > 0; i -= 2) {
+        for (int i = width - 2; i > 0; i -= 2) {
             for (int j = 0; j < (width / 2) - i / 2; j++) {
                 System.out.print(" ");
             }
