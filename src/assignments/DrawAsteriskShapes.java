@@ -17,7 +17,7 @@ package assignments;
 
 import java.util.Scanner;
 
-public class AsteriskShapes {
+public class DrawAsteriskShapes {
     static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
@@ -107,11 +107,11 @@ public class AsteriskShapes {
 
     public static void middle(int width, int height) {
         String starM = "";
-        int heightR = height - width;
+        int heightRem = height - width;
         for (int i = 1; i <= width; i++) {
             starM += "*";
         }
-        for (int i = 1; i <= heightR; i++) {
+        for (int i = 1; i <= heightRem; i++) {
             System.out.println(starM);
         }
     }

@@ -1,34 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c7a05ec-5387-4712-be6a-871a94803e06" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/AbeToBabe.class" afterPath="$PROJECT_DIR$/target/classes/assignments/AbeToBabe.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Age.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Age.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/AreaOfTriangle.class" afterPath="$PROJECT_DIR$/target/classes/assignments/AreaOfTriangle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Average.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Average.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/CircleArea.class" afterPath="$PROJECT_DIR$/target/classes/assignments/CircleArea.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Distance.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Distance.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Echo.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Echo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Facts.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Facts.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Geometry.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Geometry.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/HelloWorld.class" afterPath="$PROJECT_DIR$/target/classes/assignments/HelloWorld.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/MainWorker$1.class" afterPath="$PROJECT_DIR$/target/classes/assignments/MainWorker$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/MainWorker.class" afterPath="$PROJECT_DIR$/target/classes/assignments/MainWorker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/MinOfThree.class" afterPath="$PROJECT_DIR$/target/classes/assignments/MinOfThree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Quadratic.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Quadratic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/RandomNumbers.class" afterPath="$PROJECT_DIR$/target/classes/assignments/RandomNumbers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/RandomPhoneNumber.class" afterPath="$PROJECT_DIR$/target/classes/assignments/RandomPhoneNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Snowman.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Snowman.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/SnowmanTwo.class" afterPath="$PROJECT_DIR$/target/classes/assignments/SnowmanTwo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/TempChoice.class" afterPath="$PROJECT_DIR$/target/classes/assignments/TempChoice.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/TempVals.class" afterPath="$PROJECT_DIR$/target/classes/assignments/TempVals.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/TemperatureConverter.class" afterPath="$PROJECT_DIR$/target/classes/assignments/TemperatureConverter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThem.class" afterPath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThemPlus.class" afterPath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThemPlus.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/other/JLine.class" afterPath="$PROJECT_DIR$/target/classes/other/JLine.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/other/Matrix.class" afterPath="$PROJECT_DIR$/target/classes/other/Matrix.class" />
+    <list default="true" id="2c7a05ec-5387-4712-be6a-871a94803e06" name="Default" comment="AsteriskShapes">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/AsteriskShapes/CoreParams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/AsteriskShapes/IDrawShape.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeChoice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeCommon.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeDiamond.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeDiamondVariableHeight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeTriangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeTriangleEquilateral.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeTriangleEquilateralInverted.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeTriangleInverted.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/assignments/AsteriskShapes.java" afterPath="$PROJECT_DIR$/src/assignments/AsteriskShapes/AsteriskShapes.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/AsteriskShapes.java" afterPath="$PROJECT_DIR$/src/assignments/AsteriskShapes.java" />
     </list>
     <ignored path="CompSci.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,21 +37,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DrawDiamonds.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignments/DrawDiamonds.java">
+      <file leaf-file-name="AsteriskShapes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes/AsteriskShapes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="26" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="26" />
+              <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AsteriskShapes.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes.java">
+      <file leaf-file-name="IDrawShape.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes/IDrawShape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.50421584">
-              <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoreParams.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes/CoreParams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShapeChoice.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeChoice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShapeCommon.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeCommon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShapeTriangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeTriangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DrawAsteriskShapes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assignments/DrawAsteriskShapes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.36593592">
+              <caret line="113" column="36" selection-start-line="113" selection-start-column="29" selection-end-line="113" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -77,6 +113,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -94,10 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/AbeToBabe.java" />
-        <option value="$PROJECT_DIR$/src/Age.java" />
-        <option value="$PROJECT_DIR$/src/AreaOfTriangle.java" />
-        <option value="$PROJECT_DIR$/src/CircleArea.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/assignments/distance.java" />
         <option value="$PROJECT_DIR$/src/assignments/AlphaPalin.java" />
@@ -135,6 +169,20 @@
         <option value="$PROJECT_DIR$/src/assignments/DrawDiamonds.java" />
         <option value="$PROJECT_DIR$/src/assignments/AAA.java" />
         <option value="$PROJECT_DIR$/src/assignments/AsteriskShapes.java" />
+        <option value="$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeChoice.java" />
+        <option value="$PROJECT_DIR$/src/assignments/AsteriskShapes/AsteriskShapes.java" />
+        <option value="$PROJECT_DIR$/src/assignments/AsteriskShapes/IDrawShape.java" />
+        <option value="$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeTraingle.java" />
+        <option value="$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeCommon.java" />
+        <option value="$PROJECT_DIR$/src/assignments/AsteriskShapes/CoreShape.java" />
+        <option value="$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeTriangle.java" />
+        <option value="$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeDiamond.java" />
+        <option value="$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeTriangleEquilateral.java" />
+        <option value="$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeTriangleEquilateralInverted.java" />
+        <option value="$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeDiamondVariableHeight.java" />
+        <option value="$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeTriangleInverted.java" />
+        <option value="$PROJECT_DIR$/src/assignments/AsteriskShapes/CoreParams.java" />
+        <option value="$PROJECT_DIR$/src/assignments/DrawAsteriskShapes.java" />
       </list>
     </option>
   </component>
@@ -209,9 +257,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -264,10 +310,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -282,122 +330,11 @@
       <recent name="C:\Users\Armand\Documents\GitHub\CompSci\src\images" />
     </key>
   </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/assignments/BoxesOfStoges</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/assignments/BoxesOfStogesPlus</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
-  </component>
   <component name="RunManager" selected="Application.AsteriskShapes">
     <configuration default="false" name="AAA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="assignments.*" />
+          <option name="PATTERN" value="assignments.AsteriskShapes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -756,7 +693,7 @@
     </configuration>
     <configuration default="false" name="AsteriskShapes" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="assignments.AsteriskShapes" />
+      <option name="MAIN_CLASS_NAME" value="assignments.AsteriskShapes.AsteriskShapes" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1118,12 +1055,6 @@
       <option name="number" value="Default" />
       <updated>1444535109485</updated>
     </task>
-    <task id="LOCAL-00013" summary="Hello World">
-      <created>1444600619533</created>
-      <option name="number" value="00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1444600619533</updated>
-    </task>
     <task id="LOCAL-00014" summary="Quadratic">
       <created>1444610866291</created>
       <option name="number" value="00014" />
@@ -1412,7 +1343,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446884306753</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="AsteriskShapes">
+      <created>1446884338093</created>
+      <option name="number" value="00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1446884338093</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1430,26 +1367,26 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268921" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5030257" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42190015" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20196672" sideWeight="0.4916067" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19969743" sideWeight="0.4916067" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5083933" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25603864" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3268921" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42190015" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25603864" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1463,10 +1400,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7326892" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42190015" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20196672" sideWeight="0.4916067" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19969743" sideWeight="0.4916067" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1526,76 +1463,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/assignments/SnowmanTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/Average.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="118" column="24" selection-start-line="118" selection-start-column="24" selection-end-line="118" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/TemperatureConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/SnowmanTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/SnowmanTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/Average.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/TemperatureConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/SnowmanTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assignments/SnowmanTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1661,7 +1528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="183" column="23" selection-start-line="183" selection-start-column="23" selection-end-line="183" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1871,9 +1737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.89038783">
           <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1881,7 +1744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.51264757">
           <caret line="36" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1901,10 +1763,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes.java">
+    <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeTriangleEquilateralInverted.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50421584">
-          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.08094435">
+          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeDiamond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeDiamondVariableHeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeTriangleInverted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1079258">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeTriangleEquilateral.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13490725">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes/AsteriskShapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes/IDrawShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeChoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes/CoreParams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeCommon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/AsteriskShapes/ShapeTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/DrawAsteriskShapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36593592">
+          <caret line="113" column="36" selection-start-line="113" selection-start-column="29" selection-end-line="113" selection-end-column="36" />
           <folding />
         </state>
       </provider>
