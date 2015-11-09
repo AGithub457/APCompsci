@@ -28,52 +28,27 @@ public class DrawAsteriskShapes {
         System.out.println("D) Inverted Equilateral Triangle");
         System.out.println("E) Perfect Diamond");
         System.out.println("F) Variable Height Diamond");
+        System.out.println("G) Square");
+        System.out.println("H) Rectangle");
         String choice = scan.next();
-        int width = shapeWidth();
 
-        if (choice.equalsIgnoreCase("a")) {
-            for (int i = 1; i < width + 1; i++) {
-                for (int j = 0; j < i; j++) {
-                    System.out.print("*");
-                }
-                System.out.println("");
-            }
-        } else if (choice.equalsIgnoreCase("b")) {
-            for (int i = width; i > 0; i--) {
-                for (int j = 0; j < i; j++) {
-                    System.out.print("*");
-                }
-                System.out.println("");
-            }
-        } else if (choice.equalsIgnoreCase("c")) {
-            top(width);
-        } else if (choice.equalsIgnoreCase("d")) {
-            for (int i = width; i > 0; i -= 2) {
-                for (int j = 0; j < (width / 2) - i / 2; j++) {
-                    System.out.print(" ");
-                }
-                for (int j = 0; j < i; j++) {
-                    System.out.print("*");
-                }
-                System.out.println("");
-            }
-        } else if (choice.equalsIgnoreCase("e")) {
-            top(width);
-            bottom(width);
-        } else if (choice.equalsIgnoreCase("f")) {
-            int height = shapeHeight(width);
-
-            top(width);
-            middle(width, height);
-            bottom(width);
-        } else {
-            System.out.println("Sorry not one of the options");
-        }
+        if (choice.equalsIgnoreCase("a")) triangle();
+        if (choice.equalsIgnoreCase("b")) triangleInv();
+        if (choice.equalsIgnoreCase("c")) triangleEquil();
+        if (choice.equalsIgnoreCase("d")) triangleEquilInv();
+        if (choice.equalsIgnoreCase("e")) diamond();
+        if (choice.equalsIgnoreCase("f")) diamondVarHeight();
+        if (choice.equalsIgnoreCase("g")) square();
+        if (choice.equalsIgnoreCase("h")) squareVarHeight();
     }
 
+    static int shapeWidthVar() {
+            System.out.println("Enter width: ");
+            return scan.nextInt();
+    }
     static int shapeWidth() {
         while (true) {
-            System.out.println("Enter width of diamond (odd number): ");
+            System.out.println("Enter width (odd number): ");
             int width = scan.nextInt();
             if (width % 2 != 0) {
                 return width;
@@ -81,9 +56,13 @@ public class DrawAsteriskShapes {
         }
     }
 
+    static int shapeHeightVar() {
+        System.out.println("Enter height: ");
+        return scan.nextInt();
+    }
     static int shapeHeight(int width) {
         while (true) {
-            System.out.println("Enter height of diamond (greater than or equal to width): ");
+            System.out.println("Enter height (greater than or equal to width): ");
             int height = scan.nextInt();
             if (height >= width) {
                 return height;
@@ -91,21 +70,74 @@ public class DrawAsteriskShapes {
         }
     }
 
-    public static void top(int width) {
-        for (int i = 1; i < width + 1; i += 2) {
-            for (int j = 0; j < (width / 2) - i / 2; j++) {
-                System.out.print(" ");
-            }
+    public static void interior(int width, int i) {
+        for (int j = 0; j < (width / 2) - i / 2; j++) {
+            System.out.print(" ");
+        }
+        for (int j = 0; j < i; j++) {
+            System.out.print("*");
+        }
 
+        System.out.println("");
+    }
+
+    public static void triangle() {
+        int width = shapeWidthVar();
+        for (int i = 1; i < width + 1; i++) {
             for (int j = 0; j < i; j++) {
                 System.out.print("*");
             }
-
             System.out.println("");
         }
     }
 
-    public static void middle(int width, int height) {
+    public static void triangleInv() {
+        int width = shapeWidthVar();
+        for (int i = width; i > 0; i--) {
+            for (int j = 0; j < i; j++) {
+                System.out.print("*");
+            }
+            System.out.println("");
+        }
+    }
+
+    public static void triangleEquil() {
+        int width = shapeWidth();
+        for (int i = 1; i < width + 1; i += 2) {
+            interior(width, i);
+        }
+    }
+
+    public static void triangleEquilInv() {
+        int width = shapeWidth();
+        for (int i = width; i > 0; i -= 2) {
+            for (int j = 0; j < (width / 2) - i / 2; j++) {
+                System.out.print(" ");
+            }
+            for (int j = 0; j < i; j++) {
+                System.out.print("*");
+            }
+            System.out.println("");
+        }
+    }
+
+    public static void diamond() {
+        int width = shapeWidth();
+        for (int i = 1; i < width + 1; i += 2) {
+            interior(width, i);
+        }
+        for (int i = width - 2; i > 0; i -= 2) {
+            interior(width, i);
+        }
+    }
+
+    public static void diamondVarHeight() {
+        int width = shapeWidth();
+        int height = shapeHeight(width);
+        for (int i = 1; i < width + 1; i += 2) {
+            interior(width, i);
+        }
+
         String starM = "";
         int heightRem = height - width;
         for (int i = 1; i <= width; i++) {
@@ -114,18 +146,29 @@ public class DrawAsteriskShapes {
         for (int i = 1; i <= heightRem; i++) {
             System.out.println(starM);
         }
+
+        for (int i = width - 2; i > 0; i -= 2) {
+            interior(width, i);
+        }
     }
 
-    public static void bottom(int width) {
-        for (int i = width - 2; i > 0; i -= 2) {
-            for (int j = 0; j < (width / 2) - i / 2; j++) {
-                System.out.print(" ");
+    public static void square() {
+        int width = shapeWidthVar();
+        for (int i = 1; i <= width; i++) {
+            for (int j = 1; j <= width; j++) {
+                System.out.print("* ");
             }
+            System.out.println("");
+        }
+    }
 
-            for (int j = 0; j < i; j++) {
-                System.out.print("*");
+    public static void squareVarHeight() {
+        int width = shapeWidthVar();
+        int height = shapeHeightVar();
+        for (int i = 1; i <= height; i++) {
+            for (int j = 1; j <= width; j++) {
+                System.out.print("* ");
             }
-
             System.out.println("");
         }
     }
