@@ -21,25 +21,39 @@ public class DrawAsteriskShapes {
     static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
-        System.out.println("Choose:");
-        System.out.println("A) Basic Right Triangle");
-        System.out.println("B) Inverted Right Triangle");
-        System.out.println("C) Equilateral Triangle");
-        System.out.println("D) Inverted Equilateral Triangle");
-        System.out.println("E) Perfect Diamond");
-        System.out.println("F) Variable Height Diamond");
-        System.out.println("G) Square");
-        System.out.println("H) Rectangle");
-        String choice = scan.next();
+        while(true) {
+            System.out.println("Choose:");
+            System.out.println("A) Basic Right Triangle");
+            System.out.println("B) Inverted Right Triangle");
+            System.out.println("C) Equilateral Triangle");
+            System.out.println("D) Inverted Equilateral Triangle");
+            System.out.println("E) Perfect Diamond");
+            System.out.println("F) Variable Height Diamond");
+            System.out.println("G) Square");
+            System.out.println("H) Rectangle");
+            String choice = scan.next();
 
-        if (choice.equalsIgnoreCase("a")) triangle();
-        if (choice.equalsIgnoreCase("b")) triangleInv();
-        if (choice.equalsIgnoreCase("c")) triangleEquil();
-        if (choice.equalsIgnoreCase("d")) triangleEquilInv();
-        if (choice.equalsIgnoreCase("e")) diamond();
-        if (choice.equalsIgnoreCase("f")) diamondVarHeight();
-        if (choice.equalsIgnoreCase("g")) square();
-        if (choice.equalsIgnoreCase("h")) squareVarHeight();
+            if (choice.equalsIgnoreCase("a")) triangle();
+            if (choice.equalsIgnoreCase("b")) triangleInv();
+            if (choice.equalsIgnoreCase("c")) triangleEquil();
+            if (choice.equalsIgnoreCase("d")) triangleEquilInv();
+            if (choice.equalsIgnoreCase("e")) diamond();
+            if (choice.equalsIgnoreCase("f")) diamondVarHeight();
+            if (choice.equalsIgnoreCase("g")) square();
+            if (choice.equalsIgnoreCase("h")) squareVarHeight();
+            else {
+                System.out.println("Sorry not a correct option, bye!");
+                System.exit(0);
+            }
+
+            System.out.println("Do you want to try another (Y/N)?");
+            String choice2 = scan.next();
+
+            if (choice2.equalsIgnoreCase("y"));
+            else {
+                break;
+            }
+        }
     }
 
     static int shapeWidthVar() {
