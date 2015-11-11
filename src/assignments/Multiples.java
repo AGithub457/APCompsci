@@ -13,13 +13,10 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package assignments.AsteriskShapes;
+package assignments;
 
-public class ShapeDiamond extends ShapeCommon implements IDrawShape {
+public class Multiples {
+    public static void main(String[] args) {
 
-    public void drawShape(int width, int height) {
-        top(width);
-
-        bottom(width);
     }
 }

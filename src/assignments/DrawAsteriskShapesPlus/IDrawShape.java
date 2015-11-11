@@ -1,4 +1,4 @@
-package assignments.AsteriskShapes;
+package assignments.DrawAsteriskShapesPlus;
 
 /**
  * Copyright (C) 2015 Armdev
@@ -15,12 +15,7 @@ package assignments.AsteriskShapes;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-public enum ShapeChoice {
-    unknown,
-    triangle,
-    invertedTriangle,
-    equilateralTriangle,
-    invertedEquilateralTriangle,
-    diamond,
-    variableHeightDiamond;
+public interface IDrawShape {
+
+     void drawShape (int width, int height);
 }

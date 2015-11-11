@@ -13,17 +13,18 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package assignments.AsteriskShapes;
+package assignments.DrawAsteriskShapesPlus;
 
-public class ShapeTriangle extends ShapeCommon  implements IDrawShape {
-
+public class ShapeTriangleEquilateralInverted extends ShapeCommon implements IDrawShape {
     public void drawShape(int width, int height) {
-        for (int i = 1; i < width + 1; i++) {
+        for (int i = width; i > 0; i -= 2) {
+            for (int j = 0; j < (width / 2) - i / 2; j++) {
+                System.out.print(" ");
+            }
             for (int j = 0; j < i; j++) {
                 System.out.print("*");
             }
             System.out.println("");
         }
-
     }
 }

@@ -1,5 +1,3 @@
-package assignments.AsteriskShapes;
-
 /**
  * Copyright (C) 2015 Armdev
  * <p>
@@ -15,7 +13,10 @@ package assignments.AsteriskShapes;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-public interface IDrawShape {
+package assignments;
 
-     void drawShape (int width, int height);
+public class RockPaperScissors {
+    public static void main(String[] args) {
+
+    }
 }

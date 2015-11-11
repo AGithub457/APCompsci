@@ -13,14 +13,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package assignments.AsteriskShapes;
+package assignments.DrawAsteriskShapesPlus;
 
-public class ShapeDiamondVariableHeight extends ShapeCommon implements IDrawShape {
+public class ShapeDiamond extends ShapeCommon implements IDrawShape {
 
     public void drawShape(int width, int height) {
         top(width);
-
-        middle(width, height);
 
         bottom(width);
     }

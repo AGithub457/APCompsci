@@ -1,3 +1,5 @@
+package assignments.DrawAsteriskShapesPlus;
+
 /**
  * Copyright (C) 2015 Armdev
  * <p>
@@ -13,16 +15,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package assignments.AsteriskShapes;
-
-public class ShapeTriangleInverted extends ShapeCommon implements IDrawShape {
-
-    public void drawShape(int width, int height) {
-        for (int i = width; i > 0; i--) {
-            for (int j = 0; j < i; j++) {
-                System.out.print("*");
-            }
-            System.out.println("");
-        }
-    }
+public enum ShapeChoice {
+    unknown,
+    triangle,
+    invertedTriangle,
+    equilateralTriangle,
+    invertedEquilateralTriangle,
+    diamond,
+    variableHeightDiamond;
 }

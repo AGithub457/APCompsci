@@ -13,28 +13,21 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package assignments.AsteriskShapes;
+package assignments.DrawAsteriskShapesPlus;
 
-import java.util.Scanner;
+public class ShapeTriangleEquilateral extends ShapeCommon implements IDrawShape {
 
-public class AsteriskShapes {
-    static Scanner scan = new Scanner(System.in);
+    public void drawShape(int width, int height) {
+        for (int i = 1; i < width + 1; i += 2) {
+            for (int j = 0; j < (width / 2) - i / 2; j++) {
+                System.out.print(" ");
+            }
 
-    public static void main(String[] args) {
-        CoreParams coreShape = new CoreParams();
+            for (int j = 0; j < i; j++) {
+                System.out.print("*");
+            }
 
-        ShapeChoice shapeChoice = coreShape.promptInputParams();
-
-        if (shapeChoice == ShapeChoice.unknown){
-            System.out.println("Sorry not one of the options");
+            System.out.println("");
         }
-        else {
-            coreShape.drawShape(shapeChoice);
-        }
-
-
     }
-
-
-
 }
