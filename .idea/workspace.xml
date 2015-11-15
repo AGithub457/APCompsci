@@ -1,39 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c7a05ec-5387-4712-be6a-871a94803e06" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/RockPaperScissorsPlus/RPS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/RockPaperScissorsPlus/RPSStarter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/RockPaperScissorsPlus/RockPaperScissors.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/other/Sandbox.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/AbeToBabe.class" afterPath="$PROJECT_DIR$/target/classes/assignments/AbeToBabe.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Age.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Age.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/AreaOfTriangle.class" afterPath="$PROJECT_DIR$/target/classes/assignments/AreaOfTriangle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Average.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Average.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/CircleArea.class" afterPath="$PROJECT_DIR$/target/classes/assignments/CircleArea.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Distance.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Distance.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Echo.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Echo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Facts.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Facts.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Geometry.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Geometry.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/HelloWorld.class" afterPath="$PROJECT_DIR$/target/classes/assignments/HelloWorld.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/MainWorker$1.class" afterPath="$PROJECT_DIR$/target/classes/assignments/MainWorker$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/MainWorker.class" afterPath="$PROJECT_DIR$/target/classes/assignments/MainWorker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/MinOfThree.class" afterPath="$PROJECT_DIR$/target/classes/assignments/MinOfThree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Quadratic.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Quadratic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/RandomNumbers.class" afterPath="$PROJECT_DIR$/target/classes/assignments/RandomNumbers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/RandomPhoneNumber.class" afterPath="$PROJECT_DIR$/target/classes/assignments/RandomPhoneNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/Snowman.class" afterPath="$PROJECT_DIR$/target/classes/assignments/Snowman.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/SnowmanTwo.class" afterPath="$PROJECT_DIR$/target/classes/assignments/SnowmanTwo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/TempChoice.class" afterPath="$PROJECT_DIR$/target/classes/assignments/TempChoice.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/TempVals.class" afterPath="$PROJECT_DIR$/target/classes/assignments/TempVals.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/TemperatureConverter.class" afterPath="$PROJECT_DIR$/target/classes/assignments/TemperatureConverter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThem.class" afterPath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThemPlus.class" afterPath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThemPlus.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/other/JLine.class" afterPath="$PROJECT_DIR$/target/classes/other/JLine.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/other/Matrix.class" afterPath="$PROJECT_DIR$/target/classes/other/Matrix.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+    <list default="true" id="2c7a05ec-5387-4712-be6a-871a94803e06" name="Default" comment="RockPaperScissors">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/Apache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CompSci.iml" afterPath="$PROJECT_DIR$/CompSci.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/RockPaperScissors.java" afterPath="$PROJECT_DIR$/src/assignments/RockPaperScissors.java" />
     </list>
     <ignored path="CompSci.iws" />
@@ -56,7 +27,18 @@
     <favorites_list name="CompSci" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RockPaperScissors.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assignments/RockPaperScissors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.13490725">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,13 +107,13 @@
         <option value="$PROJECT_DIR$/src/assignments/DrawAsteriskShapes.java" />
         <option value="$PROJECT_DIR$/src/assignments/Multiples.java" />
         <option value="$PROJECT_DIR$/src/assignments/ExamGrades.java" />
-        <option value="$PROJECT_DIR$/src/assignments/RockPaperScissors.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/assignments/RockPaperScissorsPlus/RockPaperScissorsPlus.java" />
         <option value="$PROJECT_DIR$/src/assignments/RockPaperScissorsPlus/RPSStarter.java" />
         <option value="C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/Enum.java" />
         <option value="$PROJECT_DIR$/src/assignments/RockPaperScissorsPlus/RockPaperScissors.java" />
         <option value="$PROJECT_DIR$/src/assignments/RockPaperScissorsPlus/RPS.java" />
+        <option value="$PROJECT_DIR$/src/assignments/RockPaperScissors.java" />
       </list>
     </option>
   </component>
@@ -195,16 +177,31 @@
             <id>Ant inspections</id>
           </State>
           <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
             <id>Code style issuesJava</id>
           </State>
           <State>
             <id>Groovy</id>
           </State>
           <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
             <id>Java</id>
           </State>
           <State>
             <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
           </State>
           <State>
             <id>Probable bugsGroovy</id>
@@ -327,56 +324,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CompSci" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CompSci" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assignments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RockPaperScissorsPlus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CompSci" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CompSci" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assignments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrawAsteriskShapesPlus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.selected.configurable" value="template.copyright.formatting" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Facets" />
@@ -1196,12 +1149,6 @@
       <option name="number" value="Default" />
       <updated>1444535109485</updated>
     </task>
-    <task id="LOCAL-00018" summary="Snowman">
-      <created>1444611271045</created>
-      <option name="number" value="00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1444611271045</updated>
-    </task>
     <task id="LOCAL-00019" summary="Snowman 2">
       <created>1444611336268</created>
       <option name="number" value="00019" />
@@ -1490,7 +1437,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447213025807</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="RockPaperScissorsPlus">
+      <created>1447629044474</created>
+      <option name="number" value="00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1447629044477</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1504,23 +1457,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3252818" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5030257" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19969743" sideWeight="0.48470208" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19969743" sideWeight="0.48470208" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19969743" sideWeight="0.5152979" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3252818" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1566,7 +1519,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Armdev" />
     <MESSAGE value="Min Of Three" />
     <MESSAGE value="Workspace" />
     <MESSAGE value="Added name and moved sun to right" />
@@ -1591,7 +1543,8 @@
     <MESSAGE value="DrawAsteriskShapes" />
     <MESSAGE value="Cleaned Code" />
     <MESSAGE value="New Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Files" />
+    <MESSAGE value="RockPaperScissorsPlus" />
+    <option name="LAST_COMMIT_MESSAGE" value="RockPaperScissorsPlus" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1889,13 +1842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.52459013">
           <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/RockPaperScissors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18855219">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1904,6 +1850,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13468014">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1955,7 +1902,7 @@
         <state vertical-scroll-proportion="0.026936026">
           <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1968,12 +1915,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/RockPaperScissors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13490725">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>Apache</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
