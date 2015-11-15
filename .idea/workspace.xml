@@ -2,10 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c7a05ec-5387-4712-be6a-871a94803e06" name="Default" comment="RockPaperScissors">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/Apache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/AbeToBabe.java" afterPath="$PROJECT_DIR$/src/assignments/AbeToBabe.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Age.java" afterPath="$PROJECT_DIR$/src/assignments/Age.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Alphabetizer.java" afterPath="$PROJECT_DIR$/src/assignments/Alphabetizer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/AreaOfTriangle.java" afterPath="$PROJECT_DIR$/src/assignments/AreaOfTriangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Average.java" afterPath="$PROJECT_DIR$/src/assignments/Average.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/BottlesOfBeer.java" afterPath="$PROJECT_DIR$/src/assignments/BottlesOfBeer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/BottlesOfBeerPlus.java" afterPath="$PROJECT_DIR$/src/assignments/BottlesOfBeerPlus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/CircleArea.java" afterPath="$PROJECT_DIR$/src/assignments/CircleArea.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Distance.java" afterPath="$PROJECT_DIR$/src/assignments/Distance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapes.java" afterPath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/AsteriskShapes.java" afterPath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/AsteriskShapes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/CoreParams.java" afterPath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/CoreParams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/IDrawShape.java" afterPath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/IDrawShape.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/ShapeChoice.java" afterPath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/ShapeChoice.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/ShapeCommon.java" afterPath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/ShapeCommon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/ShapeDiamond.java" afterPath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/ShapeDiamond.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/ShapeDiamondVariableHeight.java" afterPath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/ShapeDiamondVariableHeight.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/ShapeTriangle.java" afterPath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/ShapeTriangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/ShapeTriangleEquilateral.java" afterPath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/ShapeTriangleEquilateral.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/ShapeTriangleEquilateralInverted.java" afterPath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/ShapeTriangleEquilateralInverted.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/ShapeTriangleInverted.java" afterPath="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/ShapeTriangleInverted.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawBoxes.java" afterPath="$PROJECT_DIR$/src/assignments/DrawBoxes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/DrawDiamonds.java" afterPath="$PROJECT_DIR$/src/assignments/DrawDiamonds.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Echo.java" afterPath="$PROJECT_DIR$/src/assignments/Echo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/ExamGrades.java" afterPath="$PROJECT_DIR$/src/assignments/ExamGrades.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Facts.java" afterPath="$PROJECT_DIR$/src/assignments/Facts.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Geometry.java" afterPath="$PROJECT_DIR$/src/assignments/Geometry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/HelloWorld.java" afterPath="$PROJECT_DIR$/src/assignments/HelloWorld.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/MinOfThree.java" afterPath="$PROJECT_DIR$/src/assignments/MinOfThree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Multiples.java" afterPath="$PROJECT_DIR$/src/assignments/Multiples.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Palindrome.java" afterPath="$PROJECT_DIR$/src/assignments/Palindrome.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Quadratic.java" afterPath="$PROJECT_DIR$/src/assignments/Quadratic.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/RandomNumbers.java" afterPath="$PROJECT_DIR$/src/assignments/RandomNumbers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/RandomPhoneNumber.java" afterPath="$PROJECT_DIR$/src/assignments/RandomPhoneNumber.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/RockPaperScissors.java" afterPath="$PROJECT_DIR$/src/assignments/RockPaperScissors.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/RockPaperScissorsPlus/RPS.java" afterPath="$PROJECT_DIR$/src/assignments/RockPaperScissorsPlus/RPS.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/RockPaperScissorsPlus/RPSStarter.java" afterPath="$PROJECT_DIR$/src/assignments/RockPaperScissorsPlus/RPSStarter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/RockPaperScissorsPlus/RockPaperScissors.java" afterPath="$PROJECT_DIR$/src/assignments/RockPaperScissorsPlus/RockPaperScissors.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/Snowman.java" afterPath="$PROJECT_DIR$/src/assignments/Snowman.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/SnowmanTwo.java" afterPath="$PROJECT_DIR$/src/assignments/SnowmanTwo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/TemperatureConverter.java" afterPath="$PROJECT_DIR$/src/assignments/TemperatureConverter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/WinPercentage.java" afterPath="$PROJECT_DIR$/src/assignments/WinPercentage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/YouMeUsThem.java" afterPath="$PROJECT_DIR$/src/assignments/YouMeUsThem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/YouMeUsThemPlus.java" afterPath="$PROJECT_DIR$/src/assignments/YouMeUsThemPlus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/other/JLine.java" afterPath="$PROJECT_DIR$/src/other/JLine.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/other/Matrix.java" afterPath="$PROJECT_DIR$/src/other/Matrix.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/other/Sandbox.java" afterPath="$PROJECT_DIR$/src/other/Sandbox.java" />
     </list>
     <ignored path="CompSci.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,12 +73,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RockPaperScissors.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/assignments/RockPaperScissors.java">
+      <file leaf-file-name="CircleArea.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/CircleArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13490725">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#1003#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AsteriskShapes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/AsteriskShapes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoreParams.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/CoreParams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.1332209">
+              <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#3028#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,11 +132,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/assignments/Average.java" />
-        <option value="$PROJECT_DIR$/src/assignments/Alphabetizer.java" />
         <option value="$PROJECT_DIR$/src/assignments/AreaOfTriangle.java" />
         <option value="$PROJECT_DIR$/src/assignments/BottlesOfBeer.java" />
-        <option value="$PROJECT_DIR$/src/assignments/CircleArea.java" />
         <option value="$PROJECT_DIR$/src/assignments/Distance.java" />
         <option value="$PROJECT_DIR$/src/assignments/DrawBoxes.java" />
         <option value="$PROJECT_DIR$/src/assignments/Echo.java" />
@@ -114,6 +180,9 @@
         <option value="$PROJECT_DIR$/src/assignments/RockPaperScissorsPlus/RockPaperScissors.java" />
         <option value="$PROJECT_DIR$/src/assignments/RockPaperScissorsPlus/RPS.java" />
         <option value="$PROJECT_DIR$/src/assignments/RockPaperScissors.java" />
+        <option value="$PROJECT_DIR$/src/assignments/CircleArea.java" />
+        <option value="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/AsteriskShapes.java" />
+        <option value="$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/CoreParams.java" />
       </list>
     </option>
   </component>
@@ -324,12 +393,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CompSci" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CompSci" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrawAsteriskShapesPlus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="template.copyright.formatting" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Facets" />
@@ -1149,12 +1240,6 @@
       <option name="number" value="Default" />
       <updated>1444535109485</updated>
     </task>
-    <task id="LOCAL-00019" summary="Snowman 2">
-      <created>1444611336268</created>
-      <option name="number" value="00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1444611336268</updated>
-    </task>
     <task id="LOCAL-00020" summary="Temperature Converter">
       <created>1444611596359</created>
       <option name="number" value="00020" />
@@ -1443,7 +1528,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447629044477</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="RockPaperScissors">
+      <created>1447629377947</created>
+      <option name="number" value="00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1447629377947</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1466,21 +1557,21 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5030257" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42190015" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19969743" sideWeight="0.48470208" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19969743" sideWeight="0.5152979" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25603864" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42190015" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25603864" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1507,6 +1598,9 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25603864" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
@@ -1519,7 +1613,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Min Of Three" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Workspace" />
     <MESSAGE value="Added name and moved sun to right" />
     <MESSAGE value="Inverted hands" />
@@ -1544,7 +1638,11 @@
     <MESSAGE value="Cleaned Code" />
     <MESSAGE value="New Files" />
     <MESSAGE value="RockPaperScissorsPlus" />
-    <option name="LAST_COMMIT_MESSAGE" value="RockPaperScissorsPlus" />
+    <MESSAGE value="RockPaperScissors" />
+    <option name="LAST_COMMIT_MESSAGE" value="RockPaperScissors" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1603,13 +1701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="36" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/CircleArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1821,6 +1912,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.98316497">
           <caret line="168" column="26" selection-start-line="168" selection-start-column="26" selection-end-line="168" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1828,6 +1920,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1835,6 +1930,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1854,24 +1952,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/CoreParams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37710437">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/AsteriskShapes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37710437">
-          <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/ShapeDiamond.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21548821">
           <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1879,13 +1964,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.516129">
           <caret line="180" column="0" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/TemperatureConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6475548">
-          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1918,8 +1996,44 @@
     <entry file="file://$PROJECT_DIR$/src/assignments/RockPaperScissors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13490725">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/CircleArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1003#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/AsteriskShapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/TemperatureConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4030354">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/DrawAsteriskShapesPlus/CoreParams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1332209">
+          <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#3028#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
