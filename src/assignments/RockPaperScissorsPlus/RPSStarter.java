@@ -13,14 +13,11 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package assignments;
+package assignments.RockPaperScissorsPlus;
 
-public class RockPaperScissors {
+public class RPSStarter {
     public static void main(String[] args) {
-        String m = null;
-        int n = 5;
-
-        m = Integer.toString(n);
-        System.out.println(m + n);
+        RockPaperScissors RPSGame = new RockPaperScissors();
+        RPSGame.playGame();
     }
 }

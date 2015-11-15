@@ -13,14 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package assignments;
+package other;
 
-public class RockPaperScissors {
-    public static void main(String[] args) {
-        String m = null;
-        int n = 5;
-
-        m = Integer.toString(n);
-        System.out.println(m + n);
-    }
+public class Sandbox {
 }

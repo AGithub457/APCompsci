@@ -13,14 +13,28 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package assignments;
+package assignments.RockPaperScissorsPlus;
 
-public class RockPaperScissors {
-    public static void main(String[] args) {
-        String m = null;
-        int n = 5;
+import java.util.Comparator;
 
-        m = Integer.toString(n);
-        System.out.println(m + n);
+public enum RPS implements Comparator<RPS> {
+    Rock,
+    Paper,
+    Scissors;
+
+    static public int match (RPS o1, RPS o2) {
+
+        if (o1 == o2) return 0;
+
+        if (o1 == RPS.Rock && o2 == RPS.Scissors) return 1;
+        if (o1 == RPS.Paper && o2 == RPS.Rock) return 1;
+        if (o1 == RPS.Scissors && o2 == RPS.Paper) return 1;
+
+        return -1;
+    }
+
+    @Override
+    public int compare(RPS o1, RPS o2) {
+        return RPS.match(o1,o2);
     }
 }
