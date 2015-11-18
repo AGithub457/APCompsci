@@ -1,46 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c7a05ec-5387-4712-be6a-871a94803e06" name="Default" comment="multiples&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/Address.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/Banking.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/Coin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/CountFlips.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/CountFlipsPlus.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/Die.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/FlipRace.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/PigLatin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/PigLatinTranslator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/Rational.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/RationalNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/SnakeEyes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/StudentBody.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/AbeToBabe.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/Age.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/AreaOfTriangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/Average.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/CircleArea.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/Distance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/Echo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/Facts.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/Geometry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/HelloWorld.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/MainWorker$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/MainWorker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/MinOfThree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/Quadratic.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/RandomNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/RandomPhoneNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/Snowman.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/SnowmanTwo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/TempChoice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/TempVals.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/TemperatureConverter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThemPlus.class" afterPath="" />
+    <list default="true" id="2c7a05ec-5387-4712-be6a-871a94803e06" name="Default" comment="Chapter 4 Batch Upload">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/semester1/Banking.java" afterPath="$PROJECT_DIR$/src/assignments/semester1/Banking.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/semester1/StudentBody.java" afterPath="$PROJECT_DIR$/src/assignments/semester1/StudentBody.java" />
     </list>
     <ignored path="CompSci.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,21 +27,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RationalNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignments/semester1/RationalNumbers.java">
+      <file leaf-file-name="Coin.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Coin.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentBody.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/assignments/semester1/StudentBody.java">
+      <file leaf-file-name="CountFlips.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/semester1/CountFlips.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29679596">
-              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Die.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Die.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="35" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlipRace.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/semester1/FlipRace.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PigLatin.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/semester1/PigLatin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PigLatinTranslator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/semester1/PigLatinTranslator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomNumbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/semester1/RandomNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomPhoneNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/semester1/RandomPhoneNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RationalNumbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/semester1/RationalNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#1521#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rational.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Rational.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="2.158516">
+              <caret line="102" column="9" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -96,6 +142,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="AGithub457 &lt;armandag@comcast.net&gt;" />
+      </list>
+    </option>
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -149,7 +200,6 @@
         <option value="$PROJECT_DIR$/src/assignments/semester1/CountFlipsPlus.java" />
         <option value="$PROJECT_DIR$/src/assignments/semester1/FlipRace.java" />
         <option value="$PROJECT_DIR$/src/assignments/semester1/Account.java" />
-        <option value="$PROJECT_DIR$/src/assignments/semester1/Banking.java" />
         <option value="$PROJECT_DIR$/src/assignments/semester1/SnakeEyes.java" />
         <option value="$PROJECT_DIR$/src/assignments/semester1/Die.java" />
         <option value="$PROJECT_DIR$/src/assignments/semester1/PigLatinTranslator.java" />
@@ -159,6 +209,7 @@
         <option value="$PROJECT_DIR$/src/assignments/semester1/Address.java" />
         <option value="$PROJECT_DIR$/src/assignments/semester1/Student.java" />
         <option value="$PROJECT_DIR$/src/assignments/semester1/StudentBody.java" />
+        <option value="$PROJECT_DIR$/src/assignments/semester1/Banking.java" />
       </list>
     </option>
   </component>
@@ -1380,12 +1431,6 @@
       <option name="number" value="Default" />
       <updated>1444535109485</updated>
     </task>
-    <task id="LOCAL-00025" summary="Min Of Three">
-      <created>1444678009727</created>
-      <option name="number" value="00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1444678009727</updated>
-    </task>
     <task id="LOCAL-00026" summary="Workspace">
       <created>1444716829722</created>
       <option name="number" value="00026" />
@@ -1674,7 +1719,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447831317791</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Chapter 4 Batch Upload">
+      <created>1447840465304</created>
+      <option name="number" value="00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1447840465304</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1754,7 +1805,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="LOLZ" />
     <MESSAGE value="Average" />
     <MESSAGE value="WinPercentage" />
     <MESSAGE value="Palindrome" />
@@ -1779,7 +1829,8 @@
     <MESSAGE value="workspace" />
     <MESSAGE value="moved semester 1 code to its own folder" />
     <MESSAGE value="multiples&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="multiples&#10;" />
+    <MESSAGE value="Chapter 4 Batch Upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 4 Batch Upload" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -1795,20 +1846,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Snowman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1618887">
-          <caret line="21" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/SnowmanTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1618887">
-          <caret line="21" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assignments/semester1/WinPercentage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2073,81 +2110,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Coin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          <folding>
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
-            <element signature="e#805#806#0" expanded="true" />
-            <element signature="e#853#854#0" expanded="true" />
-            <element signature="e#885#886#0" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assignments/semester1/CountFlipsPlus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6745362">
           <caret line="39" column="61" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/CountFlips.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62057334">
-          <caret line="37" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/FlipRace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1079258">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
-          <folding>
-            <element signature="e#2261#2262#0" expanded="true" />
-            <element signature="e#2291#2292#0" expanded="true" />
-            <element signature="e#2329#2330#0" expanded="true" />
-            <element signature="e#2362#2363#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Die.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="20" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="20" />
-          <folding>
-            <element signature="e#1113#1114#0" expanded="true" />
-            <element signature="e#1145#1146#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Banking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/PigLatin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5935919">
-          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -2160,48 +2126,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/PigLatinTranslator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7284992">
-          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/RationalNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Rational.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.3743677">
-          <caret line="102" column="9" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
-          <folding>
-            <element signature="e#1004#1005#0" expanded="true" />
-            <element signature="e#1036#1037#0" expanded="true" />
-            <element signature="e#1071#1072#0" expanded="true" />
-            <element signature="e#1105#1106#0" expanded="true" />
-            <element signature="e#1141#1142#0" expanded="true" />
-            <element signature="e#1200#1201#0" expanded="true" />
-            <element signature="e#2124#2125#0" expanded="true" />
-            <element signature="e#2173#2174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35075885">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Address.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35075885">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
@@ -2211,8 +2136,121 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assignments/semester1/StudentBody.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29679596">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.539629">
+          <caret line="20" column="72" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#1196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.16526139">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+          <folding>
+            <element signature="e#2262#2263#0" expanded="true" />
+            <element signature="e#2292#2293#0" expanded="true" />
+            <element signature="e#2330#2331#0" expanded="true" />
+            <element signature="e#2363#2364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Banking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="64" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Coin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/CountFlips.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Die.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/FlipRace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/PigLatin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/PigLatinTranslator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/RandomNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/RandomPhoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/RationalNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#1521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Rational.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.158516">
+          <caret line="102" column="9" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
           <folding />
         </state>
       </provider>
