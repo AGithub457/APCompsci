@@ -20,8 +20,7 @@ import java.util.Scanner;
 
 public class Multiples {
     public static void main(String[] args) {
-        final int PER_LINE = 5;
-        int value, limit, mult, count = 0;
+        int value, limit, mult, count = 5;
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Enter a positive value: ");
@@ -35,9 +34,10 @@ public class Multiples {
         for (mult = value; mult <= limit; mult += value) {
             System.out.print(mult + "\t");
 
-            count++;
-            if (count % PER_LINE == 0) {
+            count--;
+            if (count == 0) {
                 System.out.println();
+                count = 5;
             }
         }
     }
