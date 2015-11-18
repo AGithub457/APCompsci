@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c7a05ec-5387-4712-be6a-871a94803e06" name="Default" comment="moved semester 1 code to its own folder">
+    <list default="true" id="2c7a05ec-5387-4712-be6a-871a94803e06" name="Default" comment="multiples&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/Account.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/Banking.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/Coin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/CountFlips.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/CountFlipsPlus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/Die.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/FlipRace.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/PigLatin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/PigLatinTranslator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/Rational.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/RationalNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/SnakeEyes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/StudentBody.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/AbeToBabe.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/Age.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/AreaOfTriangle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/Average.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/CircleArea.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/Distance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/Echo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/Facts.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/Geometry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/HelloWorld.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/MainWorker$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/MainWorker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/MinOfThree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/Quadratic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/RandomNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/RandomPhoneNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/Snowman.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/SnowmanTwo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/TempChoice.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/TempVals.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/TemperatureConverter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assignments/YouMeUsThemPlus.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/semester1/Multiples.java" afterPath="$PROJECT_DIR$/src/assignments/semester1/Multiples.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/other/Sandbox.java" afterPath="$PROJECT_DIR$/src/other/Sandbox.java" />
     </list>
     <ignored path="CompSci.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,21 +63,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Multiples.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Multiples.java">
+      <file leaf-file-name="RationalNumbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignments/semester1/RationalNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sandbox.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/other/Sandbox.java">
+      <file leaf-file-name="StudentBody.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assignments/semester1/StudentBody.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1618887">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.29679596">
+              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -72,21 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/assignments/Echo.java" />
-        <option value="$PROJECT_DIR$/src/assignments/Facts.java" />
-        <option value="$PROJECT_DIR$/src/assignments/Geometry.java" />
-        <option value="$PROJECT_DIR$/src/assignments/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/assignments/MinOfThree.java" />
-        <option value="$PROJECT_DIR$/src/assignments/Palindrome.java" />
-        <option value="$PROJECT_DIR$/src/assignments/Quadratic.java" />
-        <option value="$PROJECT_DIR$/src/assignments/RandomNumbers.java" />
-        <option value="$PROJECT_DIR$/src/assignments/RandomPhoneNumber.java" />
-        <option value="$PROJECT_DIR$/src/assignments/Snowman.java" />
-        <option value="$PROJECT_DIR$/src/assignments/SnowmanTwo.java" />
-        <option value="$PROJECT_DIR$/src/assignments/TemperatureConverter.java" />
-        <option value="$PROJECT_DIR$/src/assignments/WinPercentage.java" />
-        <option value="$PROJECT_DIR$/src/assignments/YouMeUsThem.java" />
-        <option value="$PROJECT_DIR$/src/assignments/YouMeUsThemPlus.java" />
         <option value="$PROJECT_DIR$/src/other/JLine.java" />
         <option value="$PROJECT_DIR$/src/other/Matrix.java" />
         <option value="$PROJECT_DIR$/src/assignments/Test.kt" />
@@ -123,6 +144,21 @@
         <option value="$PROJECT_DIR$/src/assignments/semester1/Multiples.java" />
         <option value="$PROJECT_DIR$/src/assignments/semester1/MultiplesPlus.java" />
         <option value="$PROJECT_DIR$/src/other/Sandbox.java" />
+        <option value="$PROJECT_DIR$/src/assignments/semester1/Coin.java" />
+        <option value="$PROJECT_DIR$/src/assignments/semester1/CountFlips.java" />
+        <option value="$PROJECT_DIR$/src/assignments/semester1/CountFlipsPlus.java" />
+        <option value="$PROJECT_DIR$/src/assignments/semester1/FlipRace.java" />
+        <option value="$PROJECT_DIR$/src/assignments/semester1/Account.java" />
+        <option value="$PROJECT_DIR$/src/assignments/semester1/Banking.java" />
+        <option value="$PROJECT_DIR$/src/assignments/semester1/SnakeEyes.java" />
+        <option value="$PROJECT_DIR$/src/assignments/semester1/Die.java" />
+        <option value="$PROJECT_DIR$/src/assignments/semester1/PigLatinTranslator.java" />
+        <option value="$PROJECT_DIR$/src/assignments/semester1/PigLatin.java" />
+        <option value="$PROJECT_DIR$/src/assignments/semester1/Rational.java" />
+        <option value="$PROJECT_DIR$/src/assignments/semester1/RationalNumbers.java" />
+        <option value="$PROJECT_DIR$/src/assignments/semester1/Address.java" />
+        <option value="$PROJECT_DIR$/src/assignments/semester1/Student.java" />
+        <option value="$PROJECT_DIR$/src/assignments/semester1/StudentBody.java" />
       </list>
     </option>
   </component>
@@ -356,7 +392,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Facets" />
@@ -371,7 +407,27 @@
       <recent name="C:\Users\Armand\Documents\GitHub\CompSci\src\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AbeToBabe">
+  <component name="RunManager" selected="Application.StudentBody">
+    <configuration default="false" name="StudentBody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="assignments.semester1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="assignments.semester1.StudentBody" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CompSci" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -614,6 +670,146 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="Banking" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="assignments.semester1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="assignments.semester1.Banking" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CompSci" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CountFlips" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="assignments.semester1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="assignments.semester1.CountFlips" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CompSci" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CountFlipsPlus" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="assignments.semester1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="assignments.semester1.CountFlipsPlus" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CompSci" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="FlipRace" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="assignments.semester1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="assignments.semester1.FlipRace" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CompSci" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PigLatin" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="assignments.semester1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="assignments.semester1.PigLatin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CompSci" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RationalNumbers" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="assignments.semester1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="assignments.semester1.RationalNumbers" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CompSci" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SnakeEyes" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="assignments.semester1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="assignments.semester1.SnakeEyes" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CompSci" />
+      <envs />
       <method />
     </configuration>
     <configuration default="false" name="Snowman" type="Applet" factoryName="Applet">
@@ -1122,43 +1318,56 @@
       <envs />
       <method />
     </configuration>
-    <list size="35">
-      <item index="0" class="java.lang.String" itemvalue="Applet.Snowman" />
-      <item index="1" class="java.lang.String" itemvalue="Applet.SnowmanTwo" />
-      <item index="2" class="java.lang.String" itemvalue="Applet.YouMeUsThem" />
-      <item index="3" class="java.lang.String" itemvalue="Applet.YouMeUsThemPlus" />
-      <item index="4" class="java.lang.String" itemvalue="Application.AbeToBabe" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Age" />
-      <item index="6" class="java.lang.String" itemvalue="Application.Alphabetizer" />
-      <item index="7" class="java.lang.String" itemvalue="Application.AreaOfTriangle" />
-      <item index="8" class="java.lang.String" itemvalue="Application.AsteriskShapes" />
-      <item index="9" class="java.lang.String" itemvalue="Application.Average" />
-      <item index="10" class="java.lang.String" itemvalue="Application.BottlesOfBeer" />
-      <item index="11" class="java.lang.String" itemvalue="Application.BottlesOfBeerPlus" />
-      <item index="12" class="java.lang.String" itemvalue="Application.CircleArea" />
-      <item index="13" class="java.lang.String" itemvalue="Application.Distance" />
-      <item index="14" class="java.lang.String" itemvalue="Application.DrawAsteriskShapes" />
-      <item index="15" class="java.lang.String" itemvalue="Application.DrawBoxes" />
-      <item index="16" class="java.lang.String" itemvalue="Application.DrawDiamonds" />
-      <item index="17" class="java.lang.String" itemvalue="Application.Echo" />
-      <item index="18" class="java.lang.String" itemvalue="Application.ExamGrades" />
-      <item index="19" class="java.lang.String" itemvalue="Application.Facts" />
-      <item index="20" class="java.lang.String" itemvalue="Application.Geometry" />
-      <item index="21" class="java.lang.String" itemvalue="Application.HelloWorld" />
-      <item index="22" class="java.lang.String" itemvalue="Application.JLine" />
-      <item index="23" class="java.lang.String" itemvalue="Application.Matrix" />
-      <item index="24" class="java.lang.String" itemvalue="Application.MinOfThree" />
-      <item index="25" class="java.lang.String" itemvalue="Application.Multiples" />
-      <item index="26" class="java.lang.String" itemvalue="Application.Palindrome" />
-      <item index="27" class="java.lang.String" itemvalue="Application.Quadratic" />
-      <item index="28" class="java.lang.String" itemvalue="Application.RandomNumbers" />
-      <item index="29" class="java.lang.String" itemvalue="Application.RandomPhoneNumber" />
-      <item index="30" class="java.lang.String" itemvalue="Application.RockPaperScissors" />
-      <item index="31" class="java.lang.String" itemvalue="Application.RockPaperScissorsPlus" />
-      <item index="32" class="java.lang.String" itemvalue="Application.Snadbox" />
-      <item index="33" class="java.lang.String" itemvalue="Application.TemperatureConverter" />
-      <item index="34" class="java.lang.String" itemvalue="Application.WinPercentage" />
+    <list size="43">
+      <item index="0" class="java.lang.String" itemvalue="Application.Banking" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CountFlips" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CountFlipsPlus" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FlipRace" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PigLatin" />
+      <item index="5" class="java.lang.String" itemvalue="Application.RationalNumbers" />
+      <item index="6" class="java.lang.String" itemvalue="Application.SnakeEyes" />
+      <item index="7" class="java.lang.String" itemvalue="Applet.Snowman" />
+      <item index="8" class="java.lang.String" itemvalue="Applet.SnowmanTwo" />
+      <item index="9" class="java.lang.String" itemvalue="Applet.YouMeUsThem" />
+      <item index="10" class="java.lang.String" itemvalue="Applet.YouMeUsThemPlus" />
+      <item index="11" class="java.lang.String" itemvalue="Application.AbeToBabe" />
+      <item index="12" class="java.lang.String" itemvalue="Application.Age" />
+      <item index="13" class="java.lang.String" itemvalue="Application.Alphabetizer" />
+      <item index="14" class="java.lang.String" itemvalue="Application.AreaOfTriangle" />
+      <item index="15" class="java.lang.String" itemvalue="Application.AsteriskShapes" />
+      <item index="16" class="java.lang.String" itemvalue="Application.Average" />
+      <item index="17" class="java.lang.String" itemvalue="Application.BottlesOfBeer" />
+      <item index="18" class="java.lang.String" itemvalue="Application.BottlesOfBeerPlus" />
+      <item index="19" class="java.lang.String" itemvalue="Application.CircleArea" />
+      <item index="20" class="java.lang.String" itemvalue="Application.Distance" />
+      <item index="21" class="java.lang.String" itemvalue="Application.DrawAsteriskShapes" />
+      <item index="22" class="java.lang.String" itemvalue="Application.DrawBoxes" />
+      <item index="23" class="java.lang.String" itemvalue="Application.DrawDiamonds" />
+      <item index="24" class="java.lang.String" itemvalue="Application.Echo" />
+      <item index="25" class="java.lang.String" itemvalue="Application.ExamGrades" />
+      <item index="26" class="java.lang.String" itemvalue="Application.Facts" />
+      <item index="27" class="java.lang.String" itemvalue="Application.Geometry" />
+      <item index="28" class="java.lang.String" itemvalue="Application.HelloWorld" />
+      <item index="29" class="java.lang.String" itemvalue="Application.JLine" />
+      <item index="30" class="java.lang.String" itemvalue="Application.Matrix" />
+      <item index="31" class="java.lang.String" itemvalue="Application.MinOfThree" />
+      <item index="32" class="java.lang.String" itemvalue="Application.Multiples" />
+      <item index="33" class="java.lang.String" itemvalue="Application.Palindrome" />
+      <item index="34" class="java.lang.String" itemvalue="Application.Quadratic" />
+      <item index="35" class="java.lang.String" itemvalue="Application.RandomNumbers" />
+      <item index="36" class="java.lang.String" itemvalue="Application.RandomPhoneNumber" />
+      <item index="37" class="java.lang.String" itemvalue="Application.RockPaperScissors" />
+      <item index="38" class="java.lang.String" itemvalue="Application.RockPaperScissorsPlus" />
+      <item index="39" class="java.lang.String" itemvalue="Application.Snadbox" />
+      <item index="40" class="java.lang.String" itemvalue="Application.TemperatureConverter" />
+      <item index="41" class="java.lang.String" itemvalue="Application.WinPercentage" />
+      <item index="42" class="java.lang.String" itemvalue="Application.StudentBody" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.StudentBody" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -1170,12 +1379,6 @@
       <created>1444535109485</created>
       <option name="number" value="Default" />
       <updated>1444535109485</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Armdev">
-      <created>1444612530367</created>
-      <option name="number" value="00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1444612530367</updated>
     </task>
     <task id="LOCAL-00025" summary="Min Of Three">
       <created>1444678009727</created>
@@ -1465,7 +1668,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447815195748</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="multiples&#10;">
+      <created>1447831317791</created>
+      <option name="number" value="00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1447831317791</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1545,7 +1754,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Added buttons and frown" />
     <MESSAGE value="LOLZ" />
     <MESSAGE value="Average" />
     <MESSAGE value="WinPercentage" />
@@ -1570,7 +1778,8 @@
     <MESSAGE value="ExamGrades/Multiples" />
     <MESSAGE value="workspace" />
     <MESSAGE value="moved semester 1 code to its own folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="moved semester 1 code to its own folder" />
+    <MESSAGE value="multiples&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="multiples&#10;" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -1586,104 +1795,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/AbeToBabe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Average.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/BottlesOfBeer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/DrawBoxes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Echo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Geometry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/MinOfThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Quadratic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Distance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Facts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/RandomNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/RandomPhoneNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3777403">
-          <caret line="29" column="39" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Snowman.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1618887">
@@ -1823,6 +1934,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.52459013">
           <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1955,8 +2067,152 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/other/Sandbox.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1618887">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Coin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/CountFlipsPlus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6745362">
+          <caret line="39" column="61" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/CountFlips.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62057334">
+          <caret line="37" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/FlipRace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1079258">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <element signature="e#2261#2262#0" expanded="true" />
+            <element signature="e#2291#2292#0" expanded="true" />
+            <element signature="e#2329#2330#0" expanded="true" />
+            <element signature="e#2362#2363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Die.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="20" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <element signature="e#1113#1114#0" expanded="true" />
+            <element signature="e#1145#1146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Banking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/PigLatin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5935919">
+          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/SnakeEyes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51264757">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/PigLatinTranslator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7284992">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/RationalNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Rational.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.3743677">
+          <caret line="102" column="9" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
+          <folding>
+            <element signature="e#1004#1005#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#1105#1106#0" expanded="true" />
+            <element signature="e#1141#1142#0" expanded="true" />
+            <element signature="e#1200#1201#0" expanded="true" />
+            <element signature="e#2124#2125#0" expanded="true" />
+            <element signature="e#2173#2174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35075885">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35075885">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/StudentBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29679596">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
           <folding />
         </state>
       </provider>
