@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+package res;
+
 import java.util.Scanner;
 
 public class ScannerPlus {

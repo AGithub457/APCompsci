@@ -38,7 +38,7 @@ public class YouMeUsThem extends JApplet {
         g.setColor(Color.orange);
         g.fillRect(59, 200, 141, 141);
 
-        Image poop = new ImageIcon(this.getClass().getResource("/images/poop.png")).getImage();
+        Image poop = new ImageIcon(this.getClass().getResource("/files/images/poop.png")).getImage();
         g.drawImage(poop, 365, 325, 100, 100, this);
     }
 }
