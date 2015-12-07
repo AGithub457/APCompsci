@@ -34,7 +34,6 @@ public enum RPS implements Comparator<RPS> {
         return -1;
     }
 
-    @Override
     public int compare(RPS o1, RPS o2) {
         return RPS.match(o1,o2);
     }

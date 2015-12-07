@@ -16,9 +16,19 @@
 
 package assignments.semester1.RockPaperScissorsPlus;
 
+import java.util.Scanner;
+
 public class RPSStarter {
     public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
         RockPaperScissors RPSGame = new RockPaperScissors();
-        RPSGame.playGame();
+        while (true) {
+            RPSGame.playGame();
+            System.out.println("Do you want to play again? (Y/N)");
+            String choice = scan.next().toLowerCase();
+            if (choice.startsWith("n")) {
+                break;
+            }
+        }
     }
 }
