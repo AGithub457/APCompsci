@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c7a05ec-5387-4712-be6a-871a94803e06" name="Default" comment="Test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assignments/semester1/FinalS1/BlackjackStarter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assignments/semester1/FinalS1/Blackjack.java" afterPath="$PROJECT_DIR$/src/assignments/semester1/FinalS1/Blackjack.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -27,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BlackjackStarter.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BlackjackStarter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/assignments/semester1/FinalS1/BlackjackStarter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.5707763">
               <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Blackjack.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Blackjack.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assignments/semester1/FinalS1/Blackjack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3652968">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -1308,12 +1307,6 @@
       <option name="number" value="Default" />
       <updated>1444535109485</updated>
     </task>
-    <task id="LOCAL-00031" summary="Added buttons and frown">
-      <created>1444782882251</created>
-      <option name="number" value="00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1444782882251</updated>
-    </task>
     <task id="LOCAL-00032" summary="LOLZ">
       <created>1444788174802</created>
       <option name="number" value="00032" />
@@ -1602,7 +1595,13 @@
       <option name="project" value="LOCAL" />
       <updated>1449869691878</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Test">
+      <created>1449873026760</created>
+      <option name="number" value="00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1449873026760</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2030,7 +2029,7 @@
         <state vertical-scroll-proportion="0.7933884">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
-            <element signature="e#0#717#0" expanded="true" />
+            <element signature="e#0#717#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2075,18 +2074,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/FinalS1/BlackjackStarter.java">
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/FinalS1/Blackjack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/FinalS1/Blackjack.java">
+    <entry file="file://$PROJECT_DIR$/src/assignments/semester1/FinalS1/BlackjackStarter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3652968">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5707763">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
           <folding />
         </state>
       </provider>

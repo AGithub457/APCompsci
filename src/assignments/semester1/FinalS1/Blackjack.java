@@ -28,5 +28,4 @@ public class Blackjack {
         //add to string array
         //add subtract your count from 21
     }
-
 }
