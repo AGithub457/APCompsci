@@ -16,17 +16,25 @@
 
 package assignments.semester1.FinalS1;
 
+import java.util.Scanner;
+
 /**
  * Created by Armdev on 12/11/15.
  */
-public class Blackjack {
-    public void playGame() {
-        //create cards
-        //start game
-        //hit or give
-        //pick a random card
-        //add to string array
-        //add subtract your count from 21
-    }
+public class BlackjackStarter {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        Blackjack BJGame = new Blackjack();
 
+        while (true) {
+            BJGame.playGame();
+            System.out.println("Do you want to play again? (Y/N)");
+            String choice = scan.next().toLowerCase();
+            if (choice.startsWith("n")) {
+                break;
+            }
+        }
+
+        //get vars from other class
+    }
 }
