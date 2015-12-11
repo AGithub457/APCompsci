@@ -18,6 +18,10 @@ package other;
 
 public class Sandbox {
     public static void main(String[] args) {
-
+        String str = "This is the best thing ever";
+        char[] ch = str.toCharArray();
+        if (ch[1] == 'F') {
+            System.out.println(str);
+        }
     }
 }
