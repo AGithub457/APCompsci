@@ -16,5 +16,8 @@
 
 package assignments.semester1.FinalS1;
 
-public class Blackjack {
+public class BlackjackStarter {
+    public static void main(String[] args) {
+
+    }
 }
