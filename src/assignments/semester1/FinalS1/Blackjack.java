@@ -17,4 +17,7 @@
 package assignments.semester1.FinalS1;
 
 public class Blackjack {
+    public void playGame() {
+
+    }
 }

@@ -16,8 +16,19 @@
 
 package assignments.semester1.FinalS1;
 
+import java.util.Scanner;
+
 public class BlackjackStarter {
     public static void main(String[] args) {
-
+        Scanner scan = new Scanner(System.in);
+        Blackjack BJGame = new Blackjack();
+        while (true) {
+            BJGame.playGame();
+            System.out.println("Do you want to play again? (Y/N)");
+            String choice = scan.next().toLowerCase();
+            if (choice.startsWith("n")) {
+                break;
+            }
+        }
     }
 }
