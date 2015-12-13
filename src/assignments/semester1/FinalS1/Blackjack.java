@@ -19,15 +19,16 @@ package assignments.semester1.FinalS1;
 import java.util.Random;
 
 public class Blackjack {
-    String suit, card;
+    String comp, user, suit, card, cardsUsed = "";
     int total, totalWin, totalLoss, totalTie;
     Random rand = new Random();
 
     public void playGame() {
-        userCard();
+        comp = card();
+        user = card();
     }
 
-    private String userCard() {
+    private String card() {
         int suitNum = rand.nextInt(3) + 1;
         int cardNum = rand.nextInt(12) + 1;
         switch (suitNum) {
@@ -204,6 +205,9 @@ public class Blackjack {
                 }
             }
         }
+        cardsUsed += card;
+        System.out.println(cardsUsed);
+        return card;
     }
 
     private void printResult() {
