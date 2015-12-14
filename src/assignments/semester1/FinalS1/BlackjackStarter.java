@@ -29,8 +29,7 @@ public class BlackjackStarter {
         System.out.println("*            Press Enter to start...           *");
         System.out.println("*                                              *");
         System.out.println("************************************************");
-        Scanner scanner = new Scanner(System.in);
-        scanner.nextLine();
+        scan.nextLine();
         while (true) {
             BJGame.playGame();
             System.out.println("Do you want to play again? (Y/N)");

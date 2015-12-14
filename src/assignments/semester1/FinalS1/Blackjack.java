@@ -24,12 +24,20 @@ public class Blackjack {
     CardPicker cp = new CardPicker();
 
     public void playGame() {
-        comp = cp.card();
-        user = cp.card();
+        card = cp.card();
+        while (cardsUsed.contains(card)) {
+            card = cp.card();
+        }
+        comp = card;
+        card = cp.card();
+        while (cardsUsed.contains(card)) {
+            card = cp.card();
+        }
+        user = card;
         cardsUsed += card;
-        System.out.println(cardsUsed);
+        System.out.println(comp);
+        System.out.println(user);
     }
-
 
     private void printResult() {
         System.out.println("Total games played: " + total);
