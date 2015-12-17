@@ -16,11 +16,14 @@
 
 package assignments.semester1.FinalS1;
 
+import java.util.ArrayList;
+
 public class Blackjack {
     String comp, user;
-    String suit, card, cardsUsed = "";
+    String suit, card;
     int compVal = 0, userVal = 0;
-    int total, totalWin, totalLoss, totalTie;
+    int total, totalWin, totalLoss;
+    ArrayList<String> cardsUsed = new ArrayList<>();
     CardPicker cp = new CardPicker();
 
     public void playGame() {
@@ -29,21 +32,32 @@ public class Blackjack {
             card = cp.cardName();
         }
         comp = card;
-        cardsUsed += card;
+        compVal = cp.cardVal();
+        cardsUsed.add(card);
         card = cp.cardName();
         while (cardsUsed.contains(card)) {
             card = cp.cardName();
         }
         user = card;
-        cardsUsed += card;
-        System.out.println(comp);
-        System.out.println(user);
+        userVal = cp.cardVal();
+        cardsUsed.add(card);
+
+        printResult();
+        keepScore();
+    }
+
+    public void keepScore() {
+
     }
 
     public void printResult() {
+        System.out.println(comp);
+        System.out.println(user);
+        System.out.println(compVal);
+        System.out.println(userVal);
+        System.out.println(cardsUsed);
         System.out.println("Total games played: " + total);
         System.out.println("Total games won:    " + totalWin);
         System.out.println("Total games lost:   " + totalLoss);
-        System.out.println("Total games tied:   " + totalTie);
     }
 }

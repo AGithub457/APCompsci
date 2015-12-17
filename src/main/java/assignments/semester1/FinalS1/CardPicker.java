@@ -209,163 +209,32 @@ public class CardPicker {
     }
 
     public int cardVal() {
-        switch (card) {
-            case "S1":
-                cardV = 11;
-                break;
-            case "S2":
-                cardV = 2;
-                break;
-            case "S3":
-                cardV = 3;
-                break;
-            case "S4":
-                cardV = 4;
-                break;
-            case "S5":
-                cardV = 5;
-                break;
-            case "S6":
-                cardV = 6;
-                break;
-            case "S7":
-                cardV = 7;
-                break;
-            case "S8":
-                cardV = 8;
-                break;
-            case "S9":
-                cardV = 9;
-                break;
-            case "S10":
-                cardV = 10;
-                break;
-            case "S11":
-                cardV = 11;
-                break;
-            case "S12":
-                cardV = 12;
-                break;
-            case "S13":
-                cardV = 13;
-                break;
-            case "D1":
-                cardV = 11;
-                break;
-            case "D2":
-                cardV = 2;
-                break;
-            case "D3":
-                cardV = 3;
-                break;
-            case "D4":
-                cardV = 4;
-                break;
-            case "D5":
-                cardV = 5;
-                break;
-            case "D6":
-                cardV = 6;
-                break;
-            case "D7":
-                cardV = 7;
-                break;
-            case "D8":
-                cardV = 8;
-                break;
-            case "D9":
-                cardV = 9;
-                break;
-            case "D10":
-                cardV = 10;
-                break;
-            case "D11":
-                cardV = 11;
-                break;
-            case "D12":
-                cardV = 12;
-                break;
-            case "D13":
-                cardV = 13;
-                break;
-            case "H1":
-                cardV = 11;
-                break;
-            case "H2":
-                cardV = 2;
-                break;
-            case "H3":
-                cardV = 3;
-                break;
-            case "H4":
-                cardV = 4;
-                break;
-            case "H5":
-                cardV = 5;
-                break;
-            case "H6":
-                cardV = 6;
-                break;
-            case "H7":
-                cardV = 7;
-                break;
-            case "H8":
-                cardV = 8;
-                break;
-            case "H9":
-                cardV = 9;
-                break;
-            case "H10":
-                cardV = 10;
-                break;
-            case "H11":
-                cardV = 11;
-                break;
-            case "H12":
-                cardV = 12;
-                break;
-            case "H13":
-                cardV = 13;
-                break;
-            case "C1":
-                cardV = 11;
-                break;
-            case "C2":
-                cardV = 2;
-                break;
-            case "C3":
-                cardV = 3;
-                break;
-            case "C4":
-                cardV = 4;
-                break;
-            case "C5":
-                cardV = 5;
-                break;
-            case "C6":
-                cardV = 6;
-                break;
-            case "C7":
-                cardV = 7;
-                break;
-            case "C8":
-                cardV = 8;
-                break;
-            case "C9":
-                cardV = 9;
-                break;
-            case "C10":
-                cardV = 10;
-                break;
-            case "C11":
-                cardV = 11;
-                break;
-            case "C12":
-                cardV = 12;
-                break;
-            case "C13":
-                cardV = 13;
-                break;
+        if (card.equalsIgnoreCase("S1") || card.equalsIgnoreCase("D1") || card.equalsIgnoreCase("H1") || card.equalsIgnoreCase("C1")) {
+            cardV = 11;
+        } else if (card.equalsIgnoreCase("S2") || card.equalsIgnoreCase("D2") || card.equalsIgnoreCase("H2") || card.equalsIgnoreCase("C2")) {
+            cardV = 2;
+        } else if (card.equalsIgnoreCase("S3") || card.equalsIgnoreCase("D3") || card.equalsIgnoreCase("H3") || card.equalsIgnoreCase("C3")) {
+            cardV = 3;
+        } else if (card.equalsIgnoreCase("S4") || card.equalsIgnoreCase("D4") || card.equalsIgnoreCase("H4") || card.equalsIgnoreCase("C4")) {
+            cardV = 4;
+        } else if (card.equalsIgnoreCase("S5") || card.equalsIgnoreCase("D5") || card.equalsIgnoreCase("H5") || card.equalsIgnoreCase("C5")) {
+            cardV = 5;
+        } else if (card.equalsIgnoreCase("S6") || card.equalsIgnoreCase("D6") || card.equalsIgnoreCase("H6") || card.equalsIgnoreCase("C6")) {
+            cardV = 6;
+        } else if (card.equalsIgnoreCase("S7") || card.equalsIgnoreCase("D7") || card.equalsIgnoreCase("H7") || card.equalsIgnoreCase("C7")) {
+            cardV = 7;
+        } else if (card.equalsIgnoreCase("S8") || card.equalsIgnoreCase("D8") || card.equalsIgnoreCase("H8") || card.equalsIgnoreCase("C8")) {
+            cardV = 8;
+        } else if (card.equalsIgnoreCase("S9") || card.equalsIgnoreCase("D9") || card.equalsIgnoreCase("H9") || card.equalsIgnoreCase("C9")) {
+            cardV = 9;
+        } else if (card.equalsIgnoreCase("S10") || card.equalsIgnoreCase("D10") || card.equalsIgnoreCase("H10") || card.equalsIgnoreCase("C10")) {
+            cardV = 10;
+        } else if (card.equalsIgnoreCase("S11") || card.equalsIgnoreCase("D11") || card.equalsIgnoreCase("H11") || card.equalsIgnoreCase("C11")) {
+            cardV = 11;
+        } else if (card.equalsIgnoreCase("S12") || card.equalsIgnoreCase("D12") || card.equalsIgnoreCase("H12") || card.equalsIgnoreCase("C12")) {
+            cardV = 12;
+        } else if (card.equalsIgnoreCase("S13") || card.equalsIgnoreCase("D13") || card.equalsIgnoreCase("H13") || card.equalsIgnoreCase("C13")) {
+            cardV = 13;
         }
         return cardV;
     }
