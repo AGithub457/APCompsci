@@ -27,27 +27,40 @@ public class Blackjack {
     CardPicker cp = new CardPicker();
 
     public void playGame() {
-        card = cp.cardName();
-        while (cardsUsed.contains(card)) {
-            card = cp.cardName();
-        }
-        comp = card;
-        compVal = cp.cardVal();
-        cardsUsed.add(card);
-        card = cp.cardName();
-        while (cardsUsed.contains(card)) {
-            card = cp.cardName();
-        }
-        user = card;
-        userVal = cp.cardVal();
-        cardsUsed.add(card);
+        roundInitial();
+        roundNext();
+
+        keepScoreComp();
+        keepScoreUser();
 
         printResult();
-        keepScore();
     }
 
-    public void keepScore() {
+    public void roundInitial() {
 
+    }
+
+    public void roundNext() {
+
+    }
+
+    public String drawCard() {
+        card = cp.cardName();
+        while (cardsUsed.contains(card)) {
+            card = cp.cardName();
+        }
+        cardsUsed.add(card);
+        return card;
+    }
+
+    public void keepScoreComp() {
+        comp = drawCard();
+        compVal += cp.cardVal();
+    }
+
+    public void keepScoreUser() {
+        user = drawCard();
+        userVal += cp.cardVal();
     }
 
     public void printResult() {
