@@ -34,6 +34,8 @@ public class Blackjack {
     private int compVal = 0, compValToPrint = 0, userVal = 0;
 
     public void playGame() {
+        endGame = true;
+        endGame2 = false;
         compVal = 0;
         compValToPrint = 0;
         userVal = 0;
@@ -108,6 +110,7 @@ public class Blackjack {
                     total++;
                     totalLoss++;
                     endGame = false;
+                    endGame2 = false;
                 } else {
                     System.out.println("Your points so far:\t" + userVal);
                 }
@@ -116,6 +119,7 @@ public class Blackjack {
                 total++;
                 totalLoss++;
                 endGame = false;
+                endGame2 = false;
             }
         } else if (compVal > 21) {
             if (cardsUsedComp.contains("S1") || cardsUsedComp.contains("d1") || cardsUsedComp.contains("h1") || cardsUsedComp.contains("c1")) {
@@ -125,23 +129,27 @@ public class Blackjack {
                     total++;
                     totalWin++;
                     endGame = false;
+                    endGame2 = false;
                 }
             } else {
                 System.out.println("You Won! Congrats!");
                 total++;
                 totalWin++;
                 endGame = false;
+                endGame2 = false;
             }
         } else if (userVal == 21) {
             System.out.println("You Won! Congrats!");
             total++;
             totalWin++;
             endGame = false;
+            endGame2 = false;
         } else if (compVal == 21) {
             System.out.println("You Lost. Awww...");
             total++;
             totalLoss++;
             endGame = false;
+            endGame2 = false;
         }
     }
     public String drawCard() {
@@ -154,12 +162,15 @@ public class Blackjack {
     }
 
     public void printIntermResult() {
+        System.out.println("");
         System.out.println("Dealer's visible cards:\t" + cardsUsedCompToPrint);
         System.out.println("Dealer's points so far:\t" + compValToPrint + " + hidden initial card");
         System.out.println("Your cards:\t" + cardsUsedUser);
         System.out.println("Your points so far:\t" + userVal);
+        System.out.println("");
     }
     public void printResult() {
+        System.out.println("");
         System.out.println("Total games played: " + total);
         System.out.println("Total games won:    " + totalWin);
         System.out.println("Total games lost:   " + totalLoss);
