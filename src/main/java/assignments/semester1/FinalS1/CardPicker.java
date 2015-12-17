@@ -227,14 +227,8 @@ public class CardPicker {
             cardV = 8;
         } else if (card.equalsIgnoreCase("S9") || card.equalsIgnoreCase("D9") || card.equalsIgnoreCase("H9") || card.equalsIgnoreCase("C9")) {
             cardV = 9;
-        } else if (card.equalsIgnoreCase("S10") || card.equalsIgnoreCase("D10") || card.equalsIgnoreCase("H10") || card.equalsIgnoreCase("C10")) {
+        } else if (card.equalsIgnoreCase("S10") || card.equalsIgnoreCase("D10") || card.equalsIgnoreCase("H10") || card.equalsIgnoreCase("C10") || card.equalsIgnoreCase("S11") || card.equalsIgnoreCase("D11") || card.equalsIgnoreCase("H11") || card.equalsIgnoreCase("C11") || card.equalsIgnoreCase("S12") || card.equalsIgnoreCase("D12") || card.equalsIgnoreCase("H12") || card.equalsIgnoreCase("C12") || card.equalsIgnoreCase("S13") || card.equalsIgnoreCase("D13") || card.equalsIgnoreCase("H13") || card.equalsIgnoreCase("C13")) {
             cardV = 10;
-        } else if (card.equalsIgnoreCase("S11") || card.equalsIgnoreCase("D11") || card.equalsIgnoreCase("H11") || card.equalsIgnoreCase("C11")) {
-            cardV = 11;
-        } else if (card.equalsIgnoreCase("S12") || card.equalsIgnoreCase("D12") || card.equalsIgnoreCase("H12") || card.equalsIgnoreCase("C12")) {
-            cardV = 12;
-        } else if (card.equalsIgnoreCase("S13") || card.equalsIgnoreCase("D13") || card.equalsIgnoreCase("H13") || card.equalsIgnoreCase("C13")) {
-            cardV = 13;
         }
         return cardV;
     }
