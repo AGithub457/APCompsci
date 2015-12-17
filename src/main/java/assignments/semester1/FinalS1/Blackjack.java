@@ -58,12 +58,22 @@ public class Blackjack {
             roundNextUser();
             printIntermResult();
             over21Check();
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException ex) {
+                Thread.currentThread().interrupt();
+            }
         }
 
         while (endGame2) {
             roundNextComp();
             printIntermResult();
             over21Check();
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException ex) {
+                Thread.currentThread().interrupt();
+            }
         }
 
         printResult();
@@ -130,6 +140,8 @@ public class Blackjack {
                     totalWin++;
                     endGame = false;
                     endGame2 = false;
+                } else {
+                    System.out.println("Dealer's points so far:\t" + compValToPrint + " + hidden initial card");
                 }
             } else {
                 System.out.println("You Won! Congrats!");
