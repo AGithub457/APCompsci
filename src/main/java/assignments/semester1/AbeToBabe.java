@@ -22,7 +22,6 @@ public class AbeToBabe {
     public static void main(String[] args) {
         String word1;
         String word2;
-        String word;
         int val;
         Scanner scan = new Scanner(System.in);
 
