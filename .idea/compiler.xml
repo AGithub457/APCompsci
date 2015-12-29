@@ -17,7 +17,7 @@
       <profile default="true" name="Default" enabled="false">
         <processorPath useClasspath="true" />
       </profile>
-      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+      <profile default="false" name="Annotation profile for CompSci" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
@@ -25,8 +25,11 @@
         <module name="CompSci" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="CompSci" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="CompSci" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-source 1.8 " />
   </component>
 </project>
