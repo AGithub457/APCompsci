@@ -22,14 +22,13 @@ public class PigLatin {
     public static void main(String[] args) {
         String sentence, result, another;
         Scanner scan = new Scanner(System.in);
-        PigLatinTranslator translator = new PigLatinTranslator();
 
         do {
             System.out.println();
             System.out.println("Enter a sentence (no punctuation):");
             sentence = scan.nextLine();
             System.out.println();
-            result = translator.translate(sentence);
+            result = PigLatinTranslator.translate(sentence);
             System.out.println("That sentence in Pig Latin is:");
             System.out.println(result);
             System.out.println();

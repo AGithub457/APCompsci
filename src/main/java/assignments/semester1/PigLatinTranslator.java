@@ -20,7 +20,7 @@ import java.util.StringTokenizer;
 
 public class PigLatinTranslator {
 
-    public String translate(String sentence) {
+    public static String translate(String sentence) {
         String result = "";
         sentence = sentence.toLowerCase();
         StringTokenizer tokenizer = new StringTokenizer(sentence);
@@ -31,8 +31,8 @@ public class PigLatinTranslator {
         return result;
     }
 
-    private String translateWord(String word) {
-        String result = "";
+    private static String translateWord(String word) {
+        String result;
         if (beginsWithVowel(word)) {
             result = word + "yay";
         } else if (beginsWithBlend(word)) {
@@ -40,16 +40,27 @@ public class PigLatinTranslator {
         } else {
             result = word.substring(1) + word.charAt(0) + "ay";
         }
+
+        if (beginsWithThree(word)) {
+            result = word.substring(3) + word.substring(0, 3) + "ay";
+        }
+
         return result;
     }
+    private static boolean beginsWithThree (String word)
+    {
+        return (word.startsWith("chr") || word.startsWith ("spr")||
+                word.startsWith("thr") || word.startsWith ("str")||
+                word.startsWith("sch") || word.startsWith ("phr"));
+    }
 
-    private boolean beginsWithVowel(String word) {
+    private static boolean beginsWithVowel(String word) {
         String vowels = "aeiou";
         char letter = word.charAt(0);
         return (vowels.indexOf(letter) != -1);
     }
 
-    private boolean beginsWithBlend(String word) {
+    private static boolean beginsWithBlend(String word) {
         return (word.startsWith("bl") || word.startsWith("sc") ||
                 word.startsWith("br") || word.startsWith("sh") ||
                 word.startsWith("ch") || word.startsWith("sk") ||
