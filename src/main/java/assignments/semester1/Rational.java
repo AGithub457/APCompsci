@@ -16,7 +16,7 @@
 
 package assignments.semester1;
 
-public class Rational {
+public class Rational implements Comparable<Rational> {
     private int numerator, denominator;
 
     public Rational(int numer, int denom) {
@@ -29,6 +29,21 @@ public class Rational {
         numerator = numer;
         denominator = denom;
         reduce();
+    }
+
+    public int compareTo(Rational obj) {
+        int num = 0;
+        double dubCurrent = (double) this.numerator / this.denominator;
+        double dubNew = (double) obj.numerator / obj.denominator;
+
+        if (dubCurrent == dubNew) {
+            num = 0;
+        } else if (dubCurrent < dubNew) {
+            num = -1;
+        } else if (dubCurrent > dubNew) {
+            num = 1;
+        }
+        return num;
     }
 
     public int getNumerator() {
