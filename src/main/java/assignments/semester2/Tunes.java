@@ -16,13 +16,10 @@
 
 package assignments.semester2;
 
-/**
- * Created by Armdev on 2/5/16.
- */
 public class Tunes {
     public static void main(String[] args) {
         CDCollection music = new CDCollection();
-
+        //TODO Let user add CD
         music.addCD("Secrets", "OneRepublic", 0.99, 10);
         music.addCD("Birds Fly", "Hardwell", 0.99, 13);
         music.addCD("Radioactive", "Imagine Dragons", 0.99, 9);

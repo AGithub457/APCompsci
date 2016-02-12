@@ -18,9 +18,6 @@ package assignments.semester2;
 
 import java.text.NumberFormat;
 
-/**
- * Created by Armdev on 2/5/16.
- */
 public class CDCollection {
     private CD[] collection;
     private int count;

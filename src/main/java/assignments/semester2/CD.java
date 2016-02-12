@@ -16,19 +16,28 @@
 
 package assignments.semester2;
 
-public class BasicArray {
-    final static int LIMIT = 15;
-    final static int MULTIPLE = 10;
+import java.text.NumberFormat;
 
-    public static void main(String[] args) {
-        int[] list = new int[LIMIT];
-        for (int index = 0; index < LIMIT; index++) {
-            list[index] = index * MULTIPLE;
-        }
-        list[5] = 99;
-        for (int index = 0; index < LIMIT; index++) {
-            System.out.println(list[index]);
-        }
-        System.out.println();
+public class CD {
+    private String title, artist;
+    private double cost;
+    private int tracks;
+
+    public CD(String name, String singer, double price, int numTracks) {
+        title = name;
+        artist = singer;
+        cost = price;
+        tracks = numTracks;
+    }
+
+    public String toString() {
+        NumberFormat fmt = NumberFormat.getCurrencyInstance();
+
+        String description;
+
+        description = fmt.format(cost) + "\t" + tracks + "\t";
+        description += title + "\t" + artist;
+
+        return description;
     }
 }

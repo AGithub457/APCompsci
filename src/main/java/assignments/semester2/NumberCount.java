@@ -16,19 +16,23 @@
 
 package assignments.semester2;
 
-public class BasicArray {
-    final static int LIMIT = 15;
-    final static int MULTIPLE = 10;
+import java.util.Arrays;
+import java.util.Random;
 
+public class NumberCount {
     public static void main(String[] args) {
-        int[] list = new int[LIMIT];
-        for (int index = 0; index < LIMIT; index++) {
-            list[index] = index * MULTIPLE;
+        Random rand = new Random();
+        int[] arrayInput = new int[50];
+        int[] arrayCounter = new int[51];
+
+        for (int i = 0; i < arrayInput.length; i++) {
+            arrayInput[i] = rand.nextInt(51);
+            arrayCounter[arrayInput[i]]++;
         }
-        list[5] = 99;
-        for (int index = 0; index < LIMIT; index++) {
-            System.out.println(list[index]);
+
+        System.out.println(Arrays.toString(arrayInput));
+        for (int i = 0; i < arrayCounter.length; i++) {
+            System.out.println((i) + ":" + arrayCounter[i]);
         }
-        System.out.println();
     }
 }
