@@ -19,7 +19,7 @@ package assignments.semester2;
 public class Tally {
     public static void main(String[] args) {
         int k = 1;
-        int tally[] = {4,6,45,23,5,2,76,8,32,45,2,56,12,13,54,13};
+        int[]tally = {3,4,5,6,7,11,13,14,22,34,35,36,51,52,64,63,65,66,66,84,95,96,92};
 
         for(int i = 0; i < tally.length; i++) {
             int k2 = k + 9;
