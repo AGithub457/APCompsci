@@ -14,28 +14,11 @@
  * limitations under the License.
  */
 
-package assignments.semester2;
+package assignments.semester2.elevensLab;
 
-import java.util.ArrayList;
-
-public class DestinysChild {
+public class CardTester {
     public static void main(String[] args) {
-        ArrayList band = new ArrayList();
-
-        band.add("Michelle");
-        band.add("Kelly");
-        band.add("Beyonce");
-        band.add("Farrah");
-
-        System.out.println(band);
-
-        int location = band.indexOf("Farrah");
-        band.remove(location);
-
-        System.out.println(band);
-        System.out.println("At index 1: " + band.get(1));
-
-        System.out.println(band);
-        System.out.println("Size of the band: " + band.size());
+        String[] ranks = {"Ace", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King"};
+        String[] suits = {"Spades", "Diamonds", "Hearts"};
     }
 }

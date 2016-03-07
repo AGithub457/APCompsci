@@ -20,27 +20,52 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class UserName {
-    public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        String[] guests = {"Jeffrey", "Jesse", "Corn", "Melissa", "Jackie"};
+    static String[] nameArray = new String[5];
+    static String name;
 
-        //guests = Arrays.copyOf(guests, guests.length*2);
-        //boolean check arraylength
-        String name;
-        boolean found = false;
-        System.out.println("Enter a name: ");
+    public static void main(String[] args) {
+        int count = 0;
+        int index = 0;
+        boolean found;
+        Scanner scan = new Scanner(System.in);
+
+        System.out.println("Please enter in a name: ");
         name = scan.next();
 
-        for(int index = 0; index < guests.length; index++) {
-            if(name.equalsIgnoreCase(guests[index])) {
-                found = true;
+        while (true) {
+            nameArray[index] = name;
+            index++;
+            count++;
+            if (count == nameArray.length) {
+                System.out.println("The names are: " + Arrays.toString(nameArray));
+                increaseSize();
+                System.out.println("The array was doubled.\n");
+            }
+            System.out.println("Please enter another one: ");
+            name = scan.next();
+            found = foundUserName();
+            while (found) {
+                System.out.println("This name is already used.\n");
+                System.out.println("Please enter another one: ");
+                name = scan.next();
+                found = foundUserName();
             }
         }
+    }
 
-        if(found) {
-            System.out.println(name + " is on the guest list.");
-        } else {
-            System.out.println(name + " is not on the guest list.");
+    private static boolean foundUserName() {
+        boolean found = false;
+        for (int index = 0; index < nameArray.length; index++) {
+            if (name.equalsIgnoreCase(nameArray[index]))
+                found = true;
         }
+        return found;
+    }
+
+    private static void increaseSize() {
+        String[] temp = new String[nameArray.length * 2];
+        for (int index = 0; index < nameArray.length; index++)
+            temp[index] = nameArray[index];
+        nameArray = temp;
     }
 }

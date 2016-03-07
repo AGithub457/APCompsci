@@ -20,10 +20,10 @@ public class Sorts {
     public static void selectionSort(int[] numbers) {
         int min, temp;
 
-        for(int index = 0; index < numbers.length - 1; index++){
-            min=index;
-            for(int scan = index + 1; scan < numbers.length; index++) {
-                if(numbers[scan] < numbers[min]) {
+        for (int index = 0; index < numbers.length - 1; index++) {
+            min = index;
+            for (int scan = index + 1; scan < numbers.length; index++) {
+                if (numbers[scan] < numbers[min]) {
                     min = scan;
                 }
             }
@@ -34,13 +34,40 @@ public class Sorts {
         }
     }
 
+    public static void selectionSortInv(int[] numbers) {
+        int max, temp;
+        for (int index = numbers.length - 1; index >= 0; index--) {
+            max = index;
+            for (int scan = numbers.length; scan > index; scan--) {
+                if (numbers[scan] > numbers[max])
+                    max = scan;
+            }
+            temp = numbers[max];
+            numbers[max] = numbers[index];
+            numbers[index] = temp;
+        }
+    }
+
     public static void insertionSort(int[] numbers) {
-        for(int index = 1; index < numbers.length; index++){
+        for (int index = 1; index < numbers.length; index++) {
             int key = numbers[index];
             int position = index;
 
-            while(position > 0 && numbers[position-1] > key) {
-                numbers[position] = numbers[position-1];
+            while (position > 0 && numbers[position - 1] > key) {
+                numbers[position] = numbers[position - 1];
+                position--;
+            }
+
+            numbers[position] = key;
+        }
+    }
+
+    public static void insertionSortInv(int[] numbers) {
+        for (int index = numbers.length; index > 1; index--) {
+            int key = numbers[index];
+            int position = index;
+            while (position > 0 && numbers[position - 1] > key) {
+                numbers[position] = numbers[position - 1];
                 position--;
             }
 
@@ -49,12 +76,12 @@ public class Sorts {
     }
 
     public static void insertionSort(Comparable[] objects) {
-        for(int index = 1; index < objects.length; index++) {
+        for (int index = 1; index < objects.length; index++) {
             Comparable key = objects[index];
             int position = index;
 
-            while(position > 0 && objects[position-1].compareTo(key) > 0) {
-                objects[position] = objects[position-1];
+            while (position > 0 && objects[position - 1].compareTo(key) > 0) {
+                objects[position] = objects[position - 1];
                 position--;
             }
 

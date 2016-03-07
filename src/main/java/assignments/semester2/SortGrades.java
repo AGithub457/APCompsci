@@ -19,10 +19,17 @@ package assignments.semester2;
 public class SortGrades {
     public static void main(String[] args) {
         int[] grades = {89, 94, 69, 80, 97, 85, 73, 91, 77, 85, 93};
+        int[] grades2 = {89, 94, 69, 80, 97, 85, 73, 91, 77, 85, 93};
 
-        Sorts.selectionSort(grades);
+        Sorts.selectionSortInv(grades);
+        Sorts.insertionSortInv(grades2);
+
         for(int index = 0; index < grades.length; index++) {
             System.out.print(grades[index] + "    ");
+        }
+
+        for(int index = 0; index < grades2.length; index++) {
+            System.out.print(grades2[index] + "    ");
         }
     }
 }
