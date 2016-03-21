@@ -16,21 +16,12 @@
 
 package assignments.semester2;
 
-public class Student
+public class Words2
 {
- protected String name;
- protected int numCourses;
- 
- public Student (String studentName, int courses)
- {
-     name = studentName;
-     numCourses = courses;
- }
- 
- public String toString()
- {
-     String result = "Student name: "+name+"\n";
-     result += "Number of courses: "+numCourses;
-     return result;
- }
+   public static void main(String[] args)
+   {
+       Dictionary2 webster = new Dictionary2(1500,52500);
+       webster.pageMessage();
+       webster.definitionMessages();
+   }
 }

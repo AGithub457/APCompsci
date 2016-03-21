@@ -16,21 +16,20 @@
 
 package assignments.semester2;
 
-public class Student
+public class Dog extends Pet
 {
- protected String name;
- protected int numCourses;
- 
- public Student (String studentName, int courses)
- {
-     name = studentName;
-     numCourses = courses;
- }
- 
- public String toString()
- {
-     String result = "Student name: "+name+"\n";
-     result += "Number of courses: "+numCourses;
-     return result;
- }
+    private int weight;
+    public Dog(String dogName, int dogWeight)
+    {
+        super(dogName);
+        weight = dogWeight;
+    }
+    public int getWeight()
+    {return weight;}
+    public String toString()
+    {return super.toString() + " is a dog, weighting "+weight+" pounds";}
+    public String speak()
+    {return "woof";}
+    public String move()
+    {return "run";}
 }

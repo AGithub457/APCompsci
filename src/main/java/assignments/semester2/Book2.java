@@ -16,21 +16,11 @@
 
 package assignments.semester2;
 
-public class Student
+public class Book2
 {
- protected String name;
- protected int numCourses;
- 
- public Student (String studentName, int courses)
- {
-     name = studentName;
-     numCourses = courses;
- }
- 
- public String toString()
- {
-     String result = "Student name: "+name+"\n";
-     result += "Number of courses: "+numCourses;
-     return result;
- }
+    public int pages;
+    public Book2(int numPages)
+       { pages=numPages; }
+    public void pageMessage()
+        {System.out.println("Number of pages: "+pages);}
 }

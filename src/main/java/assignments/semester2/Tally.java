@@ -17,9 +17,14 @@
 package assignments.semester2;
 
 public class Tally {
+    static int[] tally = {3, 4, 5, 6, 7, 11, 13, 14, 22, 34, 35, 36, 51, 52, 64, 63, 65, 66, 66, 84, 95, 96, 92};
+
     public static void main(String[] args) {
+
+    }
+
+    public static void printArray() {
         int k = 1;
-        int[] tally = {3, 4, 5, 6, 7, 11, 13, 14, 22, 34, 35, 36, 51, 52, 64, 63, 65, 66, 66, 84, 95, 96, 92};
 
         for (int i = 0; i < tally.length; i++) {
             int k2 = k + 9;
@@ -33,4 +38,5 @@ public class Tally {
             System.out.println();
         }
     }
+    
 }

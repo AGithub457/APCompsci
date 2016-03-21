@@ -16,21 +16,17 @@
 
 package assignments.semester2;
 
-public class Student
+public class Dictionary2 extends Book2
 {
- protected String name;
- protected int numCourses;
- 
- public Student (String studentName, int courses)
- {
-     name = studentName;
-     numCourses = courses;
- }
- 
- public String toString()
- {
-     String result = "Student name: "+name+"\n";
-     result += "Number of courses: "+numCourses;
-     return result;
- }
+    private int definitions;
+    public Dictionary2(int numPages, int numDefinitions)
+    {
+        super(numPages);
+        definitions = numDefinitions;
+    }
+    public void definitionMessages()
+    {
+        System.out.println("Number of definitions: "+definitions);
+        System.out.println("Definitions per page: " +definitions/pages);
+    }
 }

@@ -16,21 +16,18 @@
 
 package assignments.semester2;
 
-public class Student
+public class StudentAthlete extends Student
 {
- protected String name;
- protected int numCourses;
- 
- public Student (String studentName, int courses)
- {
-     name = studentName;
-     numCourses = courses;
- }
- 
- public String toString()
- {
-     String result = "Student name: "+name+"\n";
-     result += "Number of courses: "+numCourses;
-     return result;
- }
+    protected String sport;
+    public StudentAthlete (String studentName, int courses, String sportName)
+    {
+        super (studentName,courses);
+        sport = sportName;
+    }
+    public String toString()
+    {
+        String result = super.toString();
+        result += "\nSport: "+sport;
+        return result;
+    }
 }

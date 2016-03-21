@@ -16,21 +16,15 @@
 
 package assignments.semester2;
 
-public class Student
+public abstract class Pet
 {
- protected String name;
- protected int numCourses;
- 
- public Student (String studentName, int courses)
- {
-     name = studentName;
-     numCourses = courses;
- }
- 
- public String toString()
- {
-     String result = "Student name: "+name+"\n";
-     result += "Number of courses: "+numCourses;
-     return result;
- }
+    private String name;
+    public Pet(String petName)
+    {name = petName;}
+    public String getName()
+    {return name;}
+    public String toString()
+    {return "pet "+name;}
+    abstract public String speak();
+    abstract public String move();
 }

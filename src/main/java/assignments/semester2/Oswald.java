@@ -16,21 +16,20 @@
 
 package assignments.semester2;
 
-public class Student
+public class Oswald extends Pet
 {
- protected String name;
- protected int numCourses;
- 
- public Student (String studentName, int courses)
- {
-     name = studentName;
-     numCourses = courses;
- }
- 
- public String toString()
- {
-     String result = "Student name: "+name+"\n";
-     result += "Number of courses: "+numCourses;
-     return result;
- }
+    private int dimension;
+    public Oswald(String oswaldName, int oswaldDimension)
+    {
+        super(oswaldName);
+        dimension = oswaldDimension;
+    }
+    public int getDimension()
+    {return dimension;}
+    public String toString()
+    {return super.toString() + " is a "+dimension+"by "+dimension+" cube.";}
+    public String speak()
+    {return "TrRuRuLsLdRt";}
+    public String move()
+    {return "click*clack*click*krrrkkr";}
 }

@@ -16,21 +16,20 @@
 
 package assignments.semester2;
 
-public class Student
+public class PotterBook extends Book2
 {
- protected String name;
- protected int numCourses;
- 
- public Student (String studentName, int courses)
- {
-     name = studentName;
-     numCourses = courses;
- }
- 
- public String toString()
- {
-     String result = "Student name: "+name+"\n";
-     result += "Number of courses: "+numCourses;
-     return result;
- }
+    public int potterChapters;
+    public String potterTitle;
+    public PotterBook(int numPages, int chapters, String title)
+    {
+        super(numPages);
+        potterChapters=chapters;
+        potterTitle=title;
+    }
+    public void potterMessage()
+    {
+        this.pageMessage();
+        System.out.println("The number of chapters: "+potterChapters);
+        System.out.println("The title: "+potterTitle);
+    }
 }

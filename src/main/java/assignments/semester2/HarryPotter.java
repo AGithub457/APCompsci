@@ -16,21 +16,16 @@
 
 package assignments.semester2;
 
-public class Student
+public class HarryPotter
 {
- protected String name;
- protected int numCourses;
- 
- public Student (String studentName, int courses)
- {
-     name = studentName;
-     numCourses = courses;
- }
- 
- public String toString()
- {
-     String result = "Student name: "+name+"\n";
-     result += "Number of courses: "+numCourses;
-     return result;
- }
+  public static void main (String[] args)
+  {
+      PotterBook stone = new PotterBook(700,30,"The Sorcerer's Stone");
+      PotterBook prisoner = new PotterBook(750,40,"The Prisoner of Azkaban");
+      
+      stone.potterMessage();
+      System.out.println();
+      prisoner.potterMessage();
+      
+  }
 }

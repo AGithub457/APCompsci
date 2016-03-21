@@ -16,19 +16,21 @@
 
 package assignments.semester2;
 
-public class Academia {
-    public static void main(String[] args) {
-        Student susan = new Student("Susan", 5);
-        GradStudent frank = new GradStudent("Frank", 3, "GTA", 12.75);
-
-        System.out.println(susan);
+public class Academia
+{
+    public static void main (String[] args)
+    {
+        Student Frank = new Student ("Frank",5);
+        StudentAthlete Suki = new StudentAthlete("Suki",4,"Soccer");
+        StudentScholar David = new StudentScholar("David",7,"Mathematics");
+        
+        System.out.println(Frank);
         System.out.println();
-
-        System.out.println(frank);
+        
+        System.out.println(Suki);
         System.out.println();
-
-        if(!susan.equals(frank)) {
-            System.out.println("These are two different students.");
-        }
+        
+        System.out.println(David);
+        System.out.println();
     }
 }
